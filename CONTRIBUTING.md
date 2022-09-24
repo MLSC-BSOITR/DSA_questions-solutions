@@ -6,8 +6,11 @@ How to contribute ?
 NOTE-Wrong syntax code can be rejected.
 Ex.
 {
-"id":"1",
+"id":"1"
 "topic":"DSA - Array",
 "question":"Find pair with given sum in the array",
-"answerLink":"https://www.techiedelight.com/find-pair-with-given-sum-array/"
+"answer_link":"https://www.techiedelight.com/find-pair-with-given-sum-array/"
 }
+
+
+
