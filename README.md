@@ -1,3 +1,3 @@
 # DSA_questions-solutions
-![mlsc_dsa (2)](https://user-images.githubusercontent.com/112325374/192137687-18651d32-089a-4bfc-bbdd-1ec1ac723663.png)
+![DSA](https://user-images.githubusercontent.com/112325374/192339462-5fd11a63-444e-4494-89db-200ebb5872ec.gif)
 # Read CONTRIBUTING.md for 'How to contribute ?'
