@@ -1,4 +1,4 @@
-How to contribute ?
+# How to contribute ?
 
 1.	Search about the the topic or domain on which you want to  contribute like course topic, provided by, platform, etc.
 2.	Take the reference from below example and structure your  information similar to that .
@@ -6,7 +6,7 @@ How to contribute ?
 4.	Commit your change and go for pull request.
 NOTE-Wrong syntax code can be rejected.
 NOTE1 - Contribution must be done in the given format. Pull request wont be accepted if the format is wrong.
-Ex.
+# Example
 
 
 
