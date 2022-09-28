@@ -11,9 +11,13 @@ NOTE1 - Contribution must be done in the given format. Pull request wont be acce
 
 
  {
+      
       "id":"1",
+      
       "topic":"DSA - Array",
+      
       "question":"Find pair with given sum in the array",
+      
       "answer_link":"https://www.techiedelight.com/find-pair-with-given-sum-array/"
  }
 
