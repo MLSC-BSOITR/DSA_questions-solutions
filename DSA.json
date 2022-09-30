@@ -245,6 +245,14 @@
          
      },
 
+
+ {
+        "id" : "652",
+        "topic" : "DSA linked list",
+
+        "question" : "what is singly linked list in data structure algorithm",
+        "answerLink" : "https://www.javatpoint.com/insertion-in-singly-linked-list-at-beginning"
+    },
 ]
 
 
