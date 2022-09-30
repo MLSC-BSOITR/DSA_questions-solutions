@@ -389,6 +389,12 @@
         "answerLink" : "https://www.geeksforgeeks.org/merge-sort/"
     },
 
+ {"id"
+        "id" : "17",
+        "topic" : "Data structures",
+        "question" : "How different from the array is the Linked List?",
+        "answerLink" : "https://www.monsterindia.com/"
+    },
 
 
 
