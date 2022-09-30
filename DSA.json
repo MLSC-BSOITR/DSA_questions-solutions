@@ -297,6 +297,12 @@
         "answerLink" : "https://www.geeksforgeeks.org/maximum-product-subarray/"
   
 },
+ {
+        "id" : "1250",
+        "topic" : "DSA_Linkedlist",
+        "question" : "Reverse alternate K nodes in a Linked List",
+        "answer" : "https://www.techiedelight.com/reverse-alternate-group-k-nodes-linked-list/"
+    },
 ]
 
 
