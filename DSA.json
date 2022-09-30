@@ -27,6 +27,18 @@
     {
         "id" : "5",
         "topic" : "DSA_array",
+
+        "question" : "Find the smallest window in an array sorting which will make the entire array sorted?",
+        "answerLink" : "https://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/"
+    },
+    
+      {
+        "id" : "5",
+        "topic" : "DSA_array",
+        "question" : "Maximum Product Subarray Problem",
+        "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
+    }
+
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     },
@@ -37,6 +49,31 @@
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
-    
+
+    {
+        "id" : "10",
+        "topic" : "DSA Dynamic Programming",
+        "question" : "Longest Common Subsequence",
+        "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
+    },
+
+
+        { 
+        "id" : "11",
+        "topic": "DSA - Subarray",
+        "question" : "Find maximum Product Subarray",
+        "answer_link" : "https://www.techiedelight.com/?problem=MaximumProductSubarray"
+
+    }, 
+
+     {
+        "id" : "12",
+        "topic" : "DSA Dynamic Programming",
+        "question" : "Longest Common Subsequence",
+        "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
+         
+         
+     }
+
 
 ]
