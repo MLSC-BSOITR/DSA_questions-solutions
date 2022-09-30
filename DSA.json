@@ -136,7 +136,34 @@
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
+
+{
+        "id" : "4245",
+        "topic" : "DSA interview",
+        "question" : "What are some examples of dynamic programming algorithms?",
+        "answerLink" : "The below given problems find their solution using divide and conquer algorithm approach -Fibonacci number series,Knapsack problem,Tower of Hanoi'All pair shortest path by Floyd-Warshall
+"
+    },
 ]
+
+
+
+
+{
+        "id" : "39",
+        "topic" : "Cumulative Sum",
+        "question" : "The cumulative sum of an array at index i is defined as the sum of all elements of the array from index 0 to index i",
+        "answerLink" : "https://workat.tech/problem-solving/practice/cumulative-sum"
+
+    {
+        "id" : "49",
+        "topic" : "Merge k Sorted Lists",
+        "question" : "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "answerLink" : "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
+
+    },
+
+
 
 {
 
@@ -154,6 +181,7 @@
 
         "question" : "Explain Different Types of Sorting Techniques",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
+
     }
 
 {
@@ -166,6 +194,33 @@
   
   "answer_link":"hhttps://prepinsta.com/interview-preparation/technical-interview-questions/dsa-interview-questions-and-answers-for-freshers/"
 }
+
+
+    },
+{
+    "topic" : "Data Structure",
+        "question" : "How is Data Structure helpful",
+        "answerLink" : "http://www.mygreatlearning.com"
+
+
+{
+        "id" : "123",
+        "topic" : "DSA",
+        "question" : "What is doubly linked list",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/doubly_linked_list_algorithm.htm"
+    },
+
+
+    }
+
+ {
+        "id" : "1236",
+        "topic" : "sorting in DSA",
+
+        "question" : "what is sorting in data structures and algorithms",
+        "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
+    },
+]
 
 
 
