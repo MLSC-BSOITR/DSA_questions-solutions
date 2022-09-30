@@ -336,13 +336,13 @@
         "question" : "Reverse alternate K nodes in a Linked List",
         "answer" : "https://www.techiedelight.com/reverse-alternate-group-k-nodes-linked-list/"
     },
-{
-        "id" : "2409",
-        "topic" : "DSA-Graph Data Structure",
-        "question" : "What is graph structure in DSA with their types",
-        "answer" : "tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm"
-    },
-
+ {
+       "id" : "77",
+       "topic" : "DSA - Binary Tree",
+       "question" : "inorder traversal of binary tree",
+       "answerLink" : "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/amp/"
+     },
+    
 
 
 
