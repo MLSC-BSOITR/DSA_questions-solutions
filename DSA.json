@@ -14,7 +14,7 @@
         "id" : "2",
         "topic" : "Data Structures",
         "question" : " What are Data Structures?",
-        "answerLink" : "https://www.interviewbit.com/data-structure-interview-questions/#what-are-data-structures"
+        "answerLink" : "https://www.geeksforgeeks.org/data-structures/"
     },
 
     {
@@ -42,13 +42,13 @@
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     },
-        {
-        "id" : "9",
-        "topic" : "DSA Dynamic Programming",
-        "question" : "Longest Common Subsequence",
-        "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
-    },
      
+    {
+        "id" : "9",
+        "topic" : "DSA_Linkedlist",
+        "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
+        "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
+    },
 
     {
         "id" : "10",
@@ -67,7 +67,7 @@
     }, 
 
      {
-        "id" : "14",
+        "id" : "12",
         "topic" : "DSA Dynamic Programming",
         "question" : "Longest Common Subsequence",
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
