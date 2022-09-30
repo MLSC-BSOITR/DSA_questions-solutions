@@ -37,7 +37,7 @@
         "topic" : "DSA_array",
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
-    }
+  
 
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
@@ -129,6 +129,7 @@
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
+]
 
 {
 
@@ -154,6 +155,6 @@
 
     
    
-    
 
-]
+
+
