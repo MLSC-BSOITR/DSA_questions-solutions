@@ -118,20 +118,14 @@
         "id" : "98",
         "topic" : "SQL",
 
-
-    {
-        "id" : "3",
-        "topic" : "Data Structures",
-        "question" : "What are some applications of Data structures?",
-        "answerLink" : "https://www.interviewbit.com/data-structure-interview-questions/#applications-of-data-structures"
-    }
-    
-
-
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
 {
+
+        "id" : "44",
+        "topic" : "Sorting Algorithm",
+
         "id" : "99",
         "topic" : "SQL",
 
@@ -140,7 +134,9 @@
     },
 
 
-
+        "question" : "Explain Different Types of Sorting Techniques",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
+    },
 
 
 
