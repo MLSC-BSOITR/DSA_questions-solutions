@@ -44,6 +44,17 @@ NOTE1 - Contribution must be done in the given format. Pull request wont be acce
       "question":"W. A. P. to find subtraction of matrices",
       
       "answer_link":"https://www.c-sharpcorner.com/blogs/subtract-matrix-in-c-programming"
+  
       
+      }
+      {
+       
+       "id":"400",
+      
+      "topic":"DSA - Array",
+      
+      "question":"What is Kadane's Algorithm",
+      
+      "answer":"Kadane's Algorithm is an iterative dynamic programming algorithm. It calculates the maximum sum subarray ending at a particular position by using the maximum sum subarray ending at the previous position."
       }
 
