@@ -37,7 +37,12 @@
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
     },
      
-    
+    {
+        "id" : "10",
+        "topic" : "DSA Dynamic Programming",
+        "question" : "Longest Common Subsequence",
+        "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
+    },
     
 
 ]
