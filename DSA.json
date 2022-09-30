@@ -265,7 +265,12 @@
       "question" : "Find all distinct combinations of a given length ",
       "answerLink" : "https://www.techiedelight.com/find-distinct-combinations-of-given-length/"
 },
-    
+   {
+       "id" : "71",
+       "topic" : "DSA - Binary Tree",
+       "question" : "Find the Maximum Depth or Height of given Binary Tree",
+       "answerLink" : "https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/amp/"
+   },
 ]
 
 
