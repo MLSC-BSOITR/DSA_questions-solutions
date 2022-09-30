@@ -156,6 +156,13 @@
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
+{
+        "id" : "2406",
+        "topic" : "Data Structure-sorting techniques",
+
+        "question" : "What are the differnt sorting algorithms in DSA",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
+    },
 
     {
         "id" : "48",
@@ -244,7 +251,7 @@
     
     "question": "why dsa is important",
     "answerLink": "https://www.programiz.com/dsa/why-algorithms#:~:text=Data%20structures%20and%20algorithms%20(DSA,the%20best%20of%20various%20choices.",
-}
+}, 
     
 
  {
@@ -283,6 +290,7 @@
        "question" : "Find the Maximum Depth or Height of given Binary Tree",
        "answerLink" : "https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/amp/"
    },
+
 {
         "id" : "12003",
         "topic" : "DSA",
@@ -290,7 +298,34 @@
         "answerLink" : "https://www.educative.io/answers/what-is-a-singly-linked-list"
     },
 
+
+{
+       "id" : "72",
+       "topic" : "DSA - Binary search",
+       "question" : "coins and triangle",
+       "answerLink" : "https://www.codechef.com/submit/TRICOIN?tab=solution"
+   },
+    
+
+    {
+
+        "id" : "123",
+        "topic" : "DSA_Binary Tree",
+        "question" : "Find the Minimum Depth or Height of given Binary Tree",
+        "answerLink" : "https://leetcode.com/problems/minimum-depth-of-binary-tree/"
+    },
+{
+        "id" : "508",
+        "topic" : "DSA_array",
+        "question" : "Minimum Product Subarray Problem",
+        "answerLink" : "https://www.geeksforgeeks.org/maximum-product-subarray/"
+  
+},
+
+
+
 ]
+
 
 
 
