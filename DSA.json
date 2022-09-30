@@ -62,12 +62,7 @@
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
 
-    {:,
-        "topic" : "DSA- Graph",
-        "question" : "What is Graph",
-        "answer" : "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/"
-"
-
+    {
         "id" : "10",
         "topic" : "DSA Dynamic Programming",
         "question" : "Longest Common Subsequence",
@@ -84,7 +79,7 @@
       {
         "id" : "110",
         "topic" : "DSA",
-        "question" : "Can Make Arithmetic Progression From Sequence",
+        "question" : "Can Make Arithmetic Progression From Sequence.",
         "answerLink" : "https://twitter.com/Ranrovel8368/status/1574858074870857728"
     },
      
@@ -308,8 +303,8 @@
        "id" : "72",
        "topic" : "DSA - Binary search",
        "question" : "coins and triangle",
-       "answerLink" : "https://www.codechef.com/submit/TRICOIN?tab=solution"
-   },
+       "answerLink" : "https://www.codechef.com/submit/TRICOIN?tab=solution/"
+},
     
 
     {
