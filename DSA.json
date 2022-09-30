@@ -328,6 +328,12 @@
         "question" : "Reverse alternate K nodes in a Linked List",
         "answer" : "https://www.techiedelight.com/reverse-alternate-group-k-nodes-linked-list/"
     },
+{
+        "id" : "2409",
+        "topic" : "DSA-Graph Data Structure",
+        "question" : "What is graph structure in DSA with their types",
+        "answer" : "tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm"
+    },
 
 
 
