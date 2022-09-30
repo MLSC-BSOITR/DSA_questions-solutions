@@ -292,6 +292,14 @@
    },
 
 {
+        "id" : "12003",
+        "topic" : "DSA",
+        "question" : "What is singly linked list",
+        "answerLink" : "https://www.educative.io/answers/what-is-a-singly-linked-list"
+    },
+
+
+{
        "id" : "72",
        "topic" : "DSA - Binary search",
        "question" : "coins and triangle",
@@ -313,6 +321,8 @@
         "answerLink" : "https://www.geeksforgeeks.org/maximum-product-subarray/"
   
 },
+
+
 
 ]
 
