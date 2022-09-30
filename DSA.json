@@ -188,6 +188,14 @@
         "question" : "How is Data Structure helpful",
         "answerLink" : "http://www.mygreatlearning.com"
 
+
+{
+        "id" : "123",
+        "topic" : "DSA",
+        "question" : "What is doubly linked list",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/doubly_linked_list_algorithm.htm"
+    },
+
     }
 
  {
@@ -198,6 +206,7 @@
         "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
     },
 ]
+
 
 
 
