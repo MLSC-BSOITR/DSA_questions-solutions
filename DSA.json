@@ -236,6 +236,14 @@
         "question" : "Merge sort ",
         "answerLink" : "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
     }
+{
+    "id": "119",
+    "topic":  "DSA",
+    
+    "question": "why dsa is important",
+    "answerLink": "https://www.programiz.com/dsa/why-algorithms#:~:text=Data%20structures%20and%20algorithms%20(DSA,the%20best%20of%20various%20choices.",
+}
+    
 
 ]
 
