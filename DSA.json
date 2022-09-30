@@ -136,6 +136,12 @@
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
+    {
+        "id" : "49",
+        "topic" : "Merge k Sorted Lists",
+        "question" : "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "answerLink" : "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
+    },
 ]
 
 {
