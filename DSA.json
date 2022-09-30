@@ -356,7 +356,13 @@
         "question" : "What is queue structure in DSA with their types",
         "answer" : "tutorialspoint.com/data_structures_algorithms/Queue_structure.htm"
     },
-
+{
+        "id" : "2000",
+        "topic" : "DSA-Stack",
+        "question" : "Why stack is called LIFO",
+        "answer" : "https://www.quora.com/Why-is-the-stack-data-structure-known-as-LIFO"
+"
+    },
 
 
 
