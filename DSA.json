@@ -156,13 +156,8 @@
         "id" : "4245",
         "topic" : "DSA interview",
         "question" : "What are some examples of dynamic programming algorithms?",
-        "answerLink" : "The below given problems find their solution using divide and conquer algorithm approach -Fibonacci number series,Knapsack problem,Tower of Hanoi'All pair shortest path by Floyd-Warshall
-"
+        "answerLink" : "The below given problems find their solution using divide and conquer algorithm approach -Fibonacci number series,Knapsack problem,Tower of Hanoi'All pair shortest path by Floyd-Warshall"
     },
-]
-
-
-
 
 {
         "id" : "39",
