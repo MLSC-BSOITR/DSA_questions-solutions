@@ -136,6 +136,12 @@
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
+{
+        "id" : "39",
+        "topic" : "Cumulative Sum",
+        "question" : "The cumulative sum of an array at index i is defined as the sum of all elements of the array from index 0 to index i",
+        "answerLink" : "https://workat.tech/problem-solving/practice/cumulative-sum"
+    },
 ]
 
 {
