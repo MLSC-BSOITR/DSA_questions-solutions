@@ -240,6 +240,12 @@
         "question" : "what are different sorting techniques in data structures and algorithms",
         "answerLink" : "https://www.cprogramizforgeeks.org/sorting-algos/"
     },
+    {
+        "id" : "1010",
+        "topic" : "DSA data structures",
+        "question" : "give examples of linear data structures ",
+        "answerLink" : "https://www.geekbotss.com/linear-data-structure/"
+    },
 ]
 
 
