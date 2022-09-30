@@ -383,6 +383,12 @@
         "question" : "Find reverse of a string",
         "answerLink" : "https://www.javatpoint.com/program-to-find-reverse-of-a-string/"
     },
+        "id" : "2802",
+        "topic" : "DSA_SORTING",
+        "question" : "sorting using merge sort",
+        "answerLink" : "https://www.geeksforgeeks.org/merge-sort/"
+    },
+
 
 
 
