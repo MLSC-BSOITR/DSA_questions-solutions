@@ -129,6 +129,15 @@
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
+
+{
+        "id" : "97",
+        "topic" : "DSA",
+
+        "question" : "N-Queens",
+        "answerLink" : "https://twitter.com/Ranrovel8368/status/1575519881004404740"
+    },
+
 ]
 
 {
@@ -142,6 +151,7 @@
         "question" : "uses of SQL",
         "answerLink" : "https://www.futurelearn.com/info/blog/what-sql-used-for#:~:text=The%20intention%20of%20SQL%20(often,database%20management%20system%20(RDBMS)."
     },
+
 
 
 
