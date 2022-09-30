@@ -136,9 +136,25 @@
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
-]
+
 
 {
+        "id" : "39",
+        "topic" : "Cumulative Sum",
+        "question" : "The cumulative sum of an array at index i is defined as the sum of all elements of the array from index 0 to index i",
+        "answerLink" : "https://workat.tech/problem-solving/practice/cumulative-sum"
+
+    {
+        "id" : "49",
+        "topic" : "Merge k Sorted Lists",
+        "question" : "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "answerLink" : "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
+
+    },
+
+]
+
+[{
 
         "id" : "44",
         "topic" : "Sorting Algorithm",
@@ -154,11 +170,23 @@
 
         "question" : "Explain Different Types of Sorting Techniques",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
+
     },
 {
     "topic" : "Data Structure",
         "question" : "How is Data Structure helpful",
         "answerLink" : "http://www.mygreatlearning.com"
+
+    }
+
+ {
+        "id" : "1236",
+        "topic" : "sorting in DSA",
+
+        "question" : "what is sorting in data structures and algorithms",
+        "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
+    },
+]
 
 
 
