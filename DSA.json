@@ -233,6 +233,13 @@
         "question" : "what is sorting in data structures and algorithms",
         "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
     },
+{
+        "id" : "122",
+        "topic" : "DSA sort technique",
+
+        "question" : "what are different sorting techniques in data structures and algorithms",
+        "answerLink" : "https://www.cprogramizforgeeks.org/sorting-algos/"
+    },
 ]
 
 
