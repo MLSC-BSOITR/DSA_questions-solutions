@@ -63,6 +63,13 @@
         "question" : "How are the elements of a 2D array stored in the memory?",
         "answerLink" : "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
     },
+    
+      {
+        "id" : "110",
+        "topic" : "DSA",
+        "question" : "Can Make Arithmetic Progression From Sequence.",
+        "answerLink" : "https://twitter.com/Ranrovel8368/status/1574858074870857728"
+    },
      
 
 
@@ -79,6 +86,14 @@
         "topic" : "DSA Dynamic Programming",
         "question" : "Longest Common Subsequence",
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
+         
+         
+     },
+       {
+        "id" : "14",
+        "topic" : "c++",
+        "question" : "what is concept of c++ (Polymorphism, inheritance, etc.",
+        "answerLink" : "https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm"
          
          
      },
@@ -163,27 +178,6 @@
 
     },
 
-
-
-{
-
-        "id" : "44",
-        "topic" : "Sorting Algorithm",
-
-        "id" : "99",
-        "topic" : "SQL",
-
-        "question" : "uses of SQL",
-        "answerLink" : "https://www.futurelearn.com/info/blog/what-sql-used-for#:~:text=The%20intention%20of%20SQL%20(often,database%20management%20system%20(RDBMS)."
-    },
-
-
-
-        "question" : "Explain Different Types of Sorting Techniques",
-        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
-
-    }
-
 {
 
   "id":"07",
@@ -236,6 +230,7 @@
         "question" : "Merge sort ",
         "answerLink" : "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
     }
+
 {
     "id": "119",
     "topic":  "DSA",
@@ -245,6 +240,30 @@
 }
     
 
+ {
+        "id" : "3241",
+        "topic" : "DSA_array",
+        "question" : "Find pair with given sum in the array",
+        "answerLink" : "https://www.techiedelight.com/find-pair-with-given-sum-array/"
+    },
+ {
+        "id" : "34",
+        "topic" : "linked list",
+        "question" : "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category[]=Linked%20List&sortBy=submissions",
+        "answerLink" : "https://www.youtube.com/watch?v=iRtLEoL-r-g"
+         
+         
+     },
+
+
+
+ {
+        "id" : "652",
+        "topic" : "DSA linked list",
+
+        "question" : "what is singly linked list in data structure algorithm",
+        "answerLink" : "https://www.javatpoint.com/insertion-in-singly-linked-list-at-beginning"
+    },
 ]
 
 
