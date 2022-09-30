@@ -57,9 +57,17 @@
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
     },
 
+      {
+        "id" : "11",
+        "topic" : "Data Structure",
+        "question" : "How are the elements of a 2D array stored in the memory?",
+        "answerLink" : "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
+    },
+     
+
 
         { 
-        "id" : "11",
+        "id" : "12",
         "topic": "DSA - Subarray",
         "question" : "Find maximum Product Subarray",
         "answer_link" : "https://www.techiedelight.com/?problem=MaximumProductSubarray"
@@ -67,7 +75,7 @@
     }, 
 
      {
-        "id" : "12",
+        "id" : "13",
         "topic" : "DSA Dynamic Programming",
         "question" : "Longest Common Subsequence",
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
