@@ -413,12 +413,6 @@
         "question" : "What is Prefix Sum Array",
         "answerLink" :"https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"
     },
-  {
-        "id" : "2005",
-        "topic" : "DSA-Strings",
-        "question" : How to check if strings are rotations of each other in Java?",
-        "answerLink" :"https://www.java67.com/2017/07/string-rotation-in-java-write-program.html"
-  }
 
 
 
