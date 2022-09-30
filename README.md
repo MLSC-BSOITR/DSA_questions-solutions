@@ -24,3 +24,15 @@ NOTE1 - Contribution must be done in the given format. Pull request wont be acce
       "answer_link":"https://stackoverflow.com/questions/33059430/matrix-addition-using-c"
       
       }
+      {
+      
+      "id":"121",
+      
+      "topic":"DSA - Array",
+      
+      "question":"How do you declare an Array?",
+      
+      "answer_link":"https://www.geeksforseeks.com/how-do-you-declare-array/"
+      
+      }
+
