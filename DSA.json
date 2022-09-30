@@ -264,6 +264,13 @@
         "question" : "what is singly linked list in data structure algorithm",
         "answerLink" : "https://www.javatpoint.com/insertion-in-singly-linked-list-at-beginning"
     },
+{
+      "id" : "70",
+      "topic" : "DSA",
+      "question" : "Find all distinct combinations of a given length ",
+      "answerLink" : "https://www.techiedelight.com/find-distinct-combinations-of-given-length/"
+},
+    
 ]
 
 
