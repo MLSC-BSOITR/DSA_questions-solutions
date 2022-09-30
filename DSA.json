@@ -137,6 +137,7 @@
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
 
+
 {
         "id" : "39",
         "topic" : "Cumulative Sum",
@@ -150,6 +151,7 @@
         "answerLink" : "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
 
     },
+
 ]
 
 [{
@@ -168,7 +170,14 @@
 
         "question" : "Explain Different Types of Sorting Techniques",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
-    }]
+
+    },
+{
+    "topic" : "Data Structure",
+        "question" : "How is Data Structure helpful",
+        "answerLink" : "http://www.mygreatlearning.com"
+
+    }
 
  {
         "id" : "1236",
@@ -177,6 +186,7 @@
         "question" : "what is sorting in data structures and algorithms",
         "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
     },
+]
 
 
 
