@@ -136,12 +136,6 @@
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
-    {
-        "id" : "49",
-        "topic" : "Merge k Sorted Lists",
-        "question" : "https://leetcode.com/problems/merge-k-sorted-lists/",
-        "answerLink" : "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
-    },
 ]
 
 {
@@ -161,14 +155,10 @@
         "question" : "Explain Different Types of Sorting Techniques",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
     },
-
- {
-        "id" : "1236",
-        "topic" : "sorting in DSA",
-
-        "question" : "what is sorting in data structures and algorithms",
-        "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
-    },
+{
+    "topic" : "Data Structure",
+        "question" : "How is Data Structure helpful",
+        "answerLink" : "http://www.mygreatlearning.com"
 
 
 
