@@ -82,6 +82,14 @@
          
          
      },
+       {
+        "id" : "14",
+        "topic" : "c++",
+        "question" : "what is concept of c++ (Polymorphism, inheritance, etc.",
+        "answerLink" : "https://www.tutorialspoint.com/cplusplus/cpp_object_oriented.htm"
+         
+         
+     },
 {
         "id" : "100",
         "topic" : "DSA",
