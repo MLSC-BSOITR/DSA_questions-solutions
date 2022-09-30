@@ -39,6 +39,13 @@
         "answerLink" : "https://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/"
     },
     
+    {
+        "id" : "6",
+        "topic" : "Data Structures",
+        "question" : "What is the prefix and post fix notation of (a + b) * (c + d) ?",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
+    },
+    
       {
         "id" : "5",
         "topic" : "DSA_array",
