@@ -121,6 +121,13 @@
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
+{
+        "id" : "97",
+        "topic" : "DSA",
+
+        "question" : "N-Queens",
+        "answerLink" : "https://twitter.com/Ranrovel8368/status/1575519881004404740"
+    },
 
 
 
