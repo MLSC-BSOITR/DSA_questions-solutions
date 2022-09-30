@@ -114,7 +114,13 @@
         "question" : "what are the advantages and Disadvantages of DSA",
         "answerLink" : "https://cdnpractice.geeksforgeeks.org/problems/what-are-advantage-and-disadvantage-of-data-structure-and-its-practical-use"
     },
+{
+        "id" : "98",
+        "topic" : "SQL",
 
+        "question" : "what is SQL",
+        "answerLink" : "https://www.w3schools.com/sql/"
+    },
 
 
 
