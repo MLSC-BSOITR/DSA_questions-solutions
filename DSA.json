@@ -283,7 +283,15 @@
        "question" : "Find the Maximum Depth or Height of given Binary Tree",
        "answerLink" : "https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/amp/"
    },
+{
+       "id" : "72",
+       "topic" : "DSA - Binary search",
+       "question" : "coins and triangle",
+       "answerLink" : "https://www.codechef.com/submit/TRICOIN?tab=solution"
+   },
+    
 ]
+
 
 
 
