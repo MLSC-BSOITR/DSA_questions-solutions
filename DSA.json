@@ -37,7 +37,7 @@
         "topic" : "DSA_array",
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
-    }
+  
 
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
@@ -82,6 +82,14 @@
          
          
      },
+{
+        "id" : "100",
+        "topic" : "DSA",
+        "question" : "Lets review",
+        "answerLink" : "https://twitter.com/Ranrovel8368/status/1575824974740213760"
+         
+         
+     },
 
      {
         "id" : "15",
@@ -121,6 +129,7 @@
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
+
 {
         "id" : "97",
         "topic" : "DSA",
@@ -129,6 +138,26 @@
         "answerLink" : "https://twitter.com/Ranrovel8368/status/1575519881004404740"
     },
 
+]
+
+{
+
+        "id" : "44",
+        "topic" : "Sorting Algorithm",
+
+        "id" : "99",
+        "topic" : "SQL",
+
+        "question" : "uses of SQL",
+        "answerLink" : "https://www.futurelearn.com/info/blog/what-sql-used-for#:~:text=The%20intention%20of%20SQL%20(often,database%20management%20system%20(RDBMS)."
+    },
+
+
+
+
+        "question" : "Explain Different Types of Sorting Techniques",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
+    },
 
 
 
@@ -136,6 +165,6 @@
 
     
    
-    
 
-]
+
+
