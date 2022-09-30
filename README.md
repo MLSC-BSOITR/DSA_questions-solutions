@@ -19,7 +19,7 @@ NOTE1 - Contribution must be done in the given format. Pull request wont be acce
       
       "topic":"DSA - Array",
       
-      "question":"Find pair with given sum in the array",
+      "question":"Find pair with given multiplication in the array",
       
       "answer_link":"https://www.techiedelight.com/find-pair-with-given-sum-array/"
       
