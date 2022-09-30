@@ -25,8 +25,9 @@
     },
     
     {
-        "id" : "4",
+        "id" : "5",
         "topic" : "DSA_array",
+
         "question" : "Find the smallest window in an array sorting which will make the entire array sorted?",
         "answerLink" : "https://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/"
     },
@@ -37,6 +38,18 @@
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     }
+
+        "question" : "Maximum Product Subarray Problem",
+        "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
+    },
+        {
+        "id" : "9",
+        "topic" : "DSA Dynamic Programming",
+        "question" : "Longest Common Subsequence",
+        "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
+    },
+     
+
     
     
     
