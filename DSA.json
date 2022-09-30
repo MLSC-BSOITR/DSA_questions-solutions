@@ -383,24 +383,20 @@
         "question" : "Find reverse of a string",
         "answerLink" : "https://www.javatpoint.com/program-to-find-reverse-of-a-string/"
     },
-        "id" : "2802",
+       { "id" : "2802",
         "topic" : "DSA_SORTING",
         "question" : "sorting using merge sort",
         "answerLink" : "https://www.geeksforgeeks.org/merge-sort/"
     },
 
-{
-        "id" : "2004",
-        "topic" : "DSA-Array",
-        "question" : "What is Prefix Sum Array",
-        "answerLink" :"https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"
-    },
+{"id ":" 2803",
+ " topic ":" DSA_Algorithm",
+ "question":"When is a binary search best applied?",
+ " answerlink ":" https://www.google.com/amp/s/career.guru99.com/top-50-data-structure-interview-questions/amp/"
+},
 
 
-
-
-
-
+]
 
 
 
