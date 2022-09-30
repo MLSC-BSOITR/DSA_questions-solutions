@@ -115,7 +115,17 @@
 
 
     
-   
+
+    {
     
+        "id" : "18",
+        "topic" : "Data Structures",
+        "question" : "Find maximum sum path involving elements of given arrays?",
+        "answerLink" : "https://www.techiedelight.com/find-maximum-sum-path-involving-elements-given-arrays/"
+
+   
+
+    
+    } 
 
 ]
