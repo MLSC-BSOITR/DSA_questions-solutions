@@ -122,8 +122,17 @@
         "answerLink" : "https://www.w3schools.com/sql/"
     },
 {
+
         "id" : "44",
         "topic" : "Sorting Algorithm",
+
+        "id" : "99",
+        "topic" : "SQL",
+
+        "question" : "uses of SQL",
+        "answerLink" : "https://www.futurelearn.com/info/blog/what-sql-used-for#:~:text=The%20intention%20of%20SQL%20(often,database%20management%20system%20(RDBMS)."
+    },
+
 
         "question" : "Explain Different Types of Sorting Techniques",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
