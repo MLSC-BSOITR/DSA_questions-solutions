@@ -225,6 +225,13 @@
         "question" : "what is sorting in data structures and algorithms",
         "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
     },
+    {
+        "id" : "118",
+        "topic" : "sorting in DSA",
+
+        "question" : "Merge sort ",
+        "answerLink" : "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
 ]
 
 
