@@ -35,4 +35,15 @@ NOTE1 - Contribution must be done in the given format. Pull request wont be acce
       "answer_link":"https://www.geeksforseeks.com/how-do-you-declare-array/"
       
       }
+       {
+      
+      "id":"100",
+      
+      "topic":"DSA - Array",
+      
+      "question":"W. A. P. to find subtraction of matrices",
+      
+      "answer_link":"https://www.c-sharpcorner.com/blogs/subtract-matrix-in-c-programming"
+      
+      }
 
