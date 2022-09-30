@@ -236,6 +236,14 @@
         "question" : "Find pair with given sum in the array",
         "answerLink" : "https://www.techiedelight.com/find-pair-with-given-sum-array/"
     },
+ {
+        "id" : "34",
+        "topic" : "linked list",
+        "question" : "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category[]=Linked%20List&sortBy=submissions",
+        "answerLink" : "https://www.youtube.com/watch?v=iRtLEoL-r-g"
+         
+         
+     },
 
 ]
 
