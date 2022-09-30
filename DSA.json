@@ -283,12 +283,13 @@
        "question" : "Find the Maximum Depth or Height of given Binary Tree",
        "answerLink" : "https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/amp/"
    },
-    {
-        "id" : "508",
-        "topic" : "DSA_array",
-        "question" : "Minimum Product Subarray Problem",
-        "answerLink" : "https://www.geeksforgeeks.org/maximum-product-subarray/"
-  
+{
+        "id" : "12003",
+        "topic" : "DSA",
+        "question" : "What is singly linked list",
+        "answerLink" : "https://www.educative.io/answers/what-is-a-singly-linked-list"
+    },
+
 ]
 
 
