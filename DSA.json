@@ -73,7 +73,18 @@
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
          
          
+     },
+
+     {
+        "id" : "15",
+        "topic" : "DSA Array",
+        "question" : "Sort array of 0s,1s and 2s in a single scan (Visiting each element once).",
+        "answerLink" : "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"
+         
+         
      }
+
+
 
 
     
