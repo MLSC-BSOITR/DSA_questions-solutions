@@ -39,6 +39,13 @@
         "answerLink" : "https://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/"
     },
     
+    {
+        "id" : "6",
+        "topic" : "Data Structures",
+        "question" : "What is the prefix and post fix notation of (a + b) * (c + d) ?",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
+    },
+    
       {
         "id" : "5",
         "topic" : "DSA_array",
@@ -387,13 +394,29 @@
         "topic" : "DSA_SORTING",
         "question" : "sorting using merge sort",
         "answerLink" : "https://www.geeksforgeeks.org/merge-sort/"
-    },
-
-{"id ":" 2803",
+   },
+{
+"id ":" 2803",
  " topic ":" DSA_Algorithm",
  "question":"When is a binary search best applied?",
  " answerlink ":" https://www.google.com/amp/s/career.guru99.com/top-50-data-structure-interview-questions/amp/"
 },
+{
+        "id" : "17",
+        "topic" : "Data structures",
+        "question" : "How different from the array is the Linked List?",
+        "answerLink" : "https://www.monsterindia.com/"
+    },
+{
+        "id" : "2004",
+        "topic" : "DSA-Array",
+        "question" : "What is Prefix Sum Array",
+        "answerLink" :"https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"
+    },
+
+
+
+
 
 
 ]
