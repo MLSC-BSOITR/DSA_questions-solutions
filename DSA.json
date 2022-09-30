@@ -156,6 +156,13 @@
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
     },
 
+ {
+        "id" : "1236",
+        "topic" : "sorting in DSA",
+
+        "question" : "what is sorting in data structures and algorithms",
+        "answerLink" : "https://www.geeksforgeeks.org/sorting-algorithms/"
+    },
 
 
 
