@@ -144,7 +144,7 @@
     },
 ]
 
-{
+[{
 
         "id" : "44",
         "topic" : "Sorting Algorithm",
@@ -160,7 +160,7 @@
 
         "question" : "Explain Different Types of Sorting Techniques",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
-    },
+    }]
 
  {
         "id" : "1236",
