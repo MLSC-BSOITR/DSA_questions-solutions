@@ -283,6 +283,12 @@
        "question" : "Find the Maximum Depth or Height of given Binary Tree",
        "answerLink" : "https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/amp/"
    },
+    {
+        "id" : "123",
+        "topic" : "DSA_Binary Tree",
+        "question" : "Find the Minimum Depth or Height of given Binary Tree",
+        "answerLink" : "https://leetcode.com/problems/minimum-depth-of-binary-tree/"
+    },
 ]
 
 
