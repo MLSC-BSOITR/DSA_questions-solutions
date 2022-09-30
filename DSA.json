@@ -63,6 +63,13 @@
         "question" : "How are the elements of a 2D array stored in the memory?",
         "answerLink" : "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
     },
+    
+      {
+        "id" : "110",
+        "topic" : "DSA",
+        "question" : "Can Make Arithmetic Progression From Sequence.",
+        "answerLink" : "https://twitter.com/Ranrovel8368/status/1574858074870857728"
+    },
      
 
 
@@ -171,27 +178,6 @@
 
     },
 
-
-
-{
-
-        "id" : "44",
-        "topic" : "Sorting Algorithm",
-
-        "id" : "99",
-        "topic" : "SQL",
-
-        "question" : "uses of SQL",
-        "answerLink" : "https://www.futurelearn.com/info/blog/what-sql-used-for#:~:text=The%20intention%20of%20SQL%20(often,database%20management%20system%20(RDBMS)."
-    },
-
-
-
-        "question" : "Explain Different Types of Sorting Techniques",
-        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
-
-    }
-
 {
 
   "id":"07",
@@ -250,6 +236,7 @@
         "question" : "Find pair with given sum in the array",
         "answerLink" : "https://www.techiedelight.com/find-pair-with-given-sum-array/"
     },
+
 ]
 
 
