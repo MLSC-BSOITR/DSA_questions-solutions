@@ -90,12 +90,20 @@
         "answerLink" : "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"
          
          
-     }
+     },
  {
         "id" : "16",
         "topic" : "Data structure",
         "question" : "what are 2 main types of data structure",
         "answerLink" : "https://www.integralist.co.uk/posts/data-types-and-data-structures/"
+         
+         
+     },
+{
+        "id" : "15",
+        "topic" : "DSA Linear Data Structur",
+        "question" : "What is linear data structure?",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
          
          
      }
