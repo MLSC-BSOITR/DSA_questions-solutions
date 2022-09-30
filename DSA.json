@@ -342,6 +342,12 @@
         "question" : "What is graph structure in DSA with their types",
         "answer" : "tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm"
     },
+{
+        "id" : "2540",
+        "topic" : "DSA-Queue",
+        "question" : "What is queue structure in DSA with their types",
+        "answer" : "tutorialspoint.com/data_structures_algorithms/Queue_structure.htm"
+    },
 
 
 
