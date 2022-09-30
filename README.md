@@ -24,3 +24,15 @@ NOTE1 - Contribution must be done in the given format. Pull request wont be acce
       "answer_link":"https://www.techiedelight.com/find-pair-with-given-sum-array/"
       
       }
+      {
+      
+      "id":"121",
+      
+      "topic":"DSA - Array",
+      
+      "question":"How do you declare an Array?",
+      
+      "answer_link":"https://www.geeksforseeks.com/how-do-you-declare-array/"
+      
+      }
+
