@@ -50,8 +50,16 @@
     },
      
 
-        { 
+    {
         "id" : "10",
+        "topic" : "DSA Dynamic Programming",
+        "question" : "Longest Common Subsequence",
+        "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
+    },
+
+
+        { 
+        "id" : "11",
         "topic": "DSA - Subarray",
         "question" : "Find maximum Product Subarray",
         "answer_link" : "https://www.techiedelight.com/?problem=MaximumProductSubarray"
@@ -60,8 +68,7 @@
 
 
     
-    
-
+   
     
 
 ]
