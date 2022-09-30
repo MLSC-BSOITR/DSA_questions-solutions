@@ -389,6 +389,14 @@
         "answerLink" : "https://www.geeksforgeeks.org/merge-sort/"
     },
 
+{
+        "id" : "2004",
+        "topic" : "DSA-Array",
+        "question" : "What is Prefix Sum Array",
+        "answerLink" :"https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"
+    },
+
+
 
 
 
