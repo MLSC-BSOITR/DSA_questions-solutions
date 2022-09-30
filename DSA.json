@@ -363,7 +363,13 @@
         "answer" : "https://www.quora.com/Why-is-the-stack-data-structure-known-as-LIFO"
 "
     },
-
+{
+        "id" : "2001",
+        "topic" : "DSA- Graph",
+        "question" : "What is Graph",
+        "answer" : "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/"
+"
+    },
 
 
 ]
