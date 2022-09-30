@@ -156,6 +156,13 @@
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
+{
+        "id" : "2406",
+        "topic" : "Data Structure-sorting techniques",
+
+        "question" : "What are the differnt sorting algorithms in DSA",
+        "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
+    },
 
     {
         "id" : "48",
@@ -283,6 +290,23 @@
        "question" : "Find the Maximum Depth or Height of given Binary Tree",
        "answerLink" : "https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/amp/"
    },
+
+{
+        "id" : "12003",
+        "topic" : "DSA",
+        "question" : "What is singly linked list",
+        "answerLink" : "https://www.educative.io/answers/what-is-a-singly-linked-list"
+    },
+
+
+{
+       "id" : "72",
+       "topic" : "DSA - Binary search",
+       "question" : "coins and triangle",
+       "answerLink" : "https://www.codechef.com/submit/TRICOIN?tab=solution"
+   },
+    
+
     {
 
         "id" : "123",
@@ -297,13 +321,18 @@
         "answerLink" : "https://www.geeksforgeeks.org/maximum-product-subarray/"
   
 },
+
  {
         "id" : "1250",
         "topic" : "DSA_Linkedlist",
         "question" : "Reverse alternate K nodes in a Linked List",
         "answer" : "https://www.techiedelight.com/reverse-alternate-group-k-nodes-linked-list/"
     },
+
+
+
 ]
+
 
 
 
