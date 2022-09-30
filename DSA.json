@@ -121,6 +121,13 @@
         "question" : "what is SQL",
         "answerLink" : "https://www.w3schools.com/sql/"
     },
+{
+        "id" : "2406",
+        "topic" : "Data Structure-sorting techniques",
+
+        "question" : "What are the differnt sorting algorithms in DSA",
+        "answerLink" : "https://www.w3schools.com/sql/"
+    },
 
 
 
