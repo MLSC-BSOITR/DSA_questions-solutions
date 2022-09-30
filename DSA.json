@@ -44,6 +44,18 @@
     },
      
     {
+        "id" : "6",
+        "topic" : "DSA_array",
+        "question" : "Move all negative elements to end in order with extra space allowed",
+        "answerLink" : "https://www.geeksforgeeks.org/move-ve-elements-end-order-extra-space-allowed/"
+    },
+    {
+        "id" : "150",
+        "topic" : "DSA_Linkedlist",
+        "question" : "Reverse alternate K nodes in a Singly Linked List",
+        "answer" : "https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/"
+    },
+    {
         "id" : "9",
         "topic" : "DSA_Linkedlist",
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
