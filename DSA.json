@@ -14,7 +14,7 @@
         "id" : "2",
         "topic" : "Data Structures",
         "question" : " What are Data Structures?",
-        "answerLink" : "https://www.interviewbit.com/data-structure-interview-questions/#what-are-data-structures"
+        "answerLink" : "https://www.geeksforgeeks.org/data-structures/"
     },
 
     {
@@ -42,13 +42,13 @@
         "question" : "Maximum Product Subarray Problem",
         "answerLink" : "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     },
-        {
-        "id" : "9",
-        "topic" : "DSA Dynamic Programming",
-        "question" : "Longest Common Subsequence",
-        "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
-    },
      
+    {
+        "id" : "9",
+        "topic" : "DSA_Linkedlist",
+        "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
+        "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
+    },
 
     {
         "id" : "10",
@@ -57,9 +57,17 @@
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
     },
 
+      {
+        "id" : "11",
+        "topic" : "Data Structure",
+        "question" : "How are the elements of a 2D array stored in the memory?",
+        "answerLink" : "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
+    },
+     
+
 
         { 
-        "id" : "11",
+        "id" : "12",
         "topic": "DSA - Subarray",
         "question" : "Find maximum Product Subarray",
         "answer_link" : "https://www.techiedelight.com/?problem=MaximumProductSubarray"
@@ -67,13 +75,30 @@
     }, 
 
      {
-        "id" : "14",
+        "id" : "13",
         "topic" : "DSA Dynamic Programming",
         "question" : "Longest Common Subsequence",
         "answerLink" : "https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/"
          
          
-     }
+     },
+
+     {
+        "id" : "15",
+        "topic" : "DSA Array",
+        "question" : "Sort array of 0s,1s and 2s in a single scan (Visiting each element once).",
+        "answerLink" : "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"
+         
+         
+     },
+ {
+        "id" : "16",
+        "topic" : "Data structure",
+        "question" : "what are 2 main types of data structure",
+        "answerLink" : "https://www.integralist.co.uk/posts/data-types-and-data-structures/"
+         
+         
+     },
 {
         "id" : "15",
         "topic" : "DSA Linear Data Structur",
@@ -82,6 +107,11 @@
          
          
      }
+
+
+
+
+
 
 
     
