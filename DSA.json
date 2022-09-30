@@ -182,6 +182,20 @@
         "question" : "Explain Different Types of Sorting Techniques",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm"
 
+    }
+
+{
+
+  "id":"07",
+  
+  "topic":"DSA - Array",
+  
+  "question":"How linked list diffrent from array",
+  
+  "answer_link":"hhttps://prepinsta.com/interview-preparation/technical-interview-questions/dsa-interview-questions-and-answers-for-freshers/"
+}
+
+
     },
 {
     "topic" : "Data Structure",
@@ -195,6 +209,7 @@
         "question" : "What is doubly linked list",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/doubly_linked_list_algorithm.htm"
     },
+
 
     }
 
