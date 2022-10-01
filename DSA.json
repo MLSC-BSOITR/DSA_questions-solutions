@@ -466,8 +466,15 @@
         "answerLink" :"https://www.codingninjas.com/codestudio/library/construct-a-complete-binary-tree-from-its-linked-list-representation"
     },
 
+ {
+  
+  "id":"200",
+  "topic":"DSA - Array",
+  "question":"Missing number in array",
+  "answer_link":"https://practice.geeksforgeeks.org/problems/missing-number-in-array/0"
+  
+  }
 ]
-
 
 
     
