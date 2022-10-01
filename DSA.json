@@ -453,6 +453,13 @@
         "answerLink" :"https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/"
     },
 
+{
+        "id" : "911",
+        "topic" : "DSA-Trees",
+        "question" : "Construct a complete binary tree from its linked list representation",
+        "answerLink" :"https://www.codingninjas.com/codestudio/library/construct-a-complete-binary-tree-from-its-linked-list-representation"
+    },
+
 ]
 
 
