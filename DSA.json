@@ -45,6 +45,15 @@
         "question" : "What is the prefix and post fix notation of (a + b) * (c + d) ?",
         "answerLink" : "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     },
+    
+     {
+        "id" : "7",
+        "topic" : "Data Structures",
+        "question" : "Move all the negative elements to one side of the array",
+        "answerLink" : "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"
+    },
+    
+    
      {
         "id" : "102",
         "topic" : "DSA_LinkedList",
