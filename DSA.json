@@ -413,7 +413,12 @@
         "question" : "What is Prefix Sum Array",
         "answerLink" :"https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"
     },
-
+    {
+        "id" : "2005",
+        "topic" : "DSA-Stack",
+        "question" : "Check for Balanced Brackets in an expression",
+        "answerLink" :"https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/"
+    },
 
 
 
