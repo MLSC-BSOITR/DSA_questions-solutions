@@ -75,6 +75,12 @@
         "question" : "Merge A Linked List Into Another Linked List At Alternate Positions",
         "answerLink" : "https://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/"
     },
+    {
+        "id" : "19",
+        "topic" : "DSA_Array",
+        "question" : "An element is called a peak element if its value is not smaller than the value of its adjacent elements(exists). Given an array arr[] of size N, Return the index of any one of its peak elements",
+        "answerLink" : "https://practice.geeksforgeeks.org/problems/peak-element/1"
+    },
 
     {
         "id" : "10",
