@@ -466,9 +466,18 @@
         "answerLink" :"https://www.codingninjas.com/codestudio/library/construct-a-complete-binary-tree-from-its-linked-list-representation"
     },
 
+{
+  
+  "id":"1",
+  
+  "topic":"DSA - Array",
+  
+  "question":"Count the triplets",
+  
+  "answer_link":"https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1"
+  
+  }
 ]
-
-
 
     
    
