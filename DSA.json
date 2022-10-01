@@ -413,7 +413,12 @@
         "question" : "What is Prefix Sum Array",
         "answerLink" :"https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"
     },
-
+{
+        "id" : "324",
+        "topic" : "DSA-Queue",
+        "question" : "Reversing a queue using recursion",
+        "answerLink" :"https://www.geeksforgeeks.org/reversing-queue-using-recursion/"
+    },
 
 
 
