@@ -1,0 +1,34 @@
+{
+"id":"2";
+
+"topic":"DSA - Stack";
+
+"questions":"Which pointer is used in Stack?";
+
+"answer_link":"https://www.stackwithget.com/which-pointer-is-used-in-stack/"
+
+}
+{
+
+"id":"221";
+
+"topic":"DSA - Stack";
+
+"questions":"How to implement Linked list using Stack?";
+
+"answer_link":"https://www.getcorner.com/how-to-implement-linked-list-using-array/"
+
+}
+{
+
+"id":"200";
+
+"topic":"DSA - Stack";
+
+"questions":"Why Stack is a recursive data structure?";
+
+"answers_link":"https://www.geeksforgeeks.com/why-stack-is-a-recursive-data-structure/"
+
+}
+
+"
