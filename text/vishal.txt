@@ -1,9 +1,0 @@
-Que. What are different operations available in stack data structure?
-
-Ans: Some of the main operations provided in the stack data structure are: 
-
-push: This adds an item to the top of the stack. The overflow condition occurs if the stack is full.
-pop: This removes the top item of the stack. Underflow condition occurs if the stack is empty.
-top: This returns the top item from the stack.
-isEmpty: This returns true if the stack is empty else false.
-size:  This returns the size of the stack.
