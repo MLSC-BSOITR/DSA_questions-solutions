@@ -110,6 +110,12 @@
          
          
      },
+    {
+        "id" : "102",
+        "topic" : "DSA_LinkedList",
+        "question" : "Delete N nodes after M nodes of a linked list",
+        "answer" : "https://www.geeksforgeeks.org/delete-n-nodes-after-m-nodes-of-a-linked-list/"
+    },
 
      {
         "id" : "15",
