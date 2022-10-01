@@ -381,7 +381,6 @@
         "topic" : "DSA-Stack",
         "question" : "Why stack is called LIFO",
         "answer" : "https://www.quora.com/Why-is-the-stack-data-structure-known-as-LIFO"
-"
     },
 {"id" : "2001",
         "id" : "2001",
@@ -440,10 +439,12 @@
         "answerLink" :"https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/"
     },
 
-
-
-
-
+    {
+        "id" : "101",
+        "topic" : "DSA-Interview",
+        "question" : "Rain water trapping problem",
+        "answerLink" :"https://leetcode.com/submissions/detail/769324619/"
+    },
 
 ]
 
