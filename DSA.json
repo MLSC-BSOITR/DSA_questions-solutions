@@ -511,6 +511,18 @@
   
     
     },
+{
+  
+    "id":"9999",
+    
+    "topic":"DSA - Dynamic Programming ",
+    
+    "question":"Number of dice rolls with target sum",
+    
+    "answer_link":"https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/2651427/Java-Memoization-(Top-down)-or-Tabulation-(Bottom-Down)-Accepted!"
+  
+    
+    },
 
     {
         "id": "4477",
