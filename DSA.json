@@ -521,6 +521,17 @@
 
         "answer_link": "https://rajritik200177.medium.com/palindrome-linkedlist-f4ada0733032"
         
+    },
+
+    {
+        "id": "203",
+
+        "topic": "DSA - Strings",
+
+        "question": "Minimum characters to be added at front to make string palindrome",
+
+        "answer_link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"
+        
     }
 ]
 
