@@ -521,6 +521,12 @@
 
         "answer_link": "https://rajritik200177.medium.com/palindrome-linkedlist-f4ada0733032"
         
+    },
+    {
+        "id":"4478",
+        "topic":"DSA - Stack using SLL",
+        "question":"Implement stack operations using singly linkedlist in C",
+        "answer_link":"https://dev.to/suman373_30/stack-using-sll-for-beginners-400g"
     }
 ]
 
