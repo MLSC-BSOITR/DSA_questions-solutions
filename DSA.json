@@ -523,11 +523,19 @@
         
     },
 
+
     {
         "id": "201",
         "topic": "DSA - Red Black Trees",
         "question": "Complete Explanation and Implementation of RBT",
         "answer_link": "https://www.happycoders.eu/algorithms/red-black-tree-java/"
+
+    {
+        "id":"4478",
+        "topic":"DSA - Stack using SLL",
+        "question":"Implement stack operations using singly linkedlist in C",
+        "answer_link":"https://dev.to/suman373_30/stack-using-sll-for-beginners-400g"
+>>
     }
 ]
 
