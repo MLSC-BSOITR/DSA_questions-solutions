@@ -512,6 +512,18 @@
   
     
     },
+{
+  
+    "id":"9999",
+    
+    "topic":"DSA - Dynamic Programming ",
+    
+    "question":"Number of dice rolls with target sum",
+    
+    "answer_link":"https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/discuss/2651427/Java-Memoization-(Top-down)-or-Tabulation-(Bottom-Down)-Accepted!"
+  
+    
+    },
 
     {
         "id": "4477",
@@ -524,6 +536,43 @@
         
     },
 
+
+
+    {
+        "id": "203",
+
+        "topic": "DSA - Strings",
+
+        "question": "Minimum characters to be added at front to make string palindrome",
+
+        "answer_link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"
+        
+
+
+    {
+        "id": "201",
+        "topic": "DSA - Red Black Trees",
+        "question": "Complete Explanation and Implementation of RBT",
+        "answer_link": "https://www.happycoders.eu/algorithms/red-black-tree-java/"
+
+    {
+        "id":"4478",
+        "topic":"DSA - Stack using SLL",
+        "question":"Implement stack operations using singly linkedlist in C",
+        "answer_link":"https://dev.to/suman373_30/stack-using-sll-for-beginners-400g"
+
+    },
+    {
+        "id":"4479",
+        "topic":"DSA - Inserting a node",
+        "question":"Inserting a node",
+        "answer_link":"https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/"
+
+
+
+
+    },
+
     {
         "id": "1578",
 
@@ -532,8 +581,9 @@
         "question": "Minimum Time to Make Rope Colorful",
 
         "answer_link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/solution/"
+        }
         
-    }
+
 ]
 
 
