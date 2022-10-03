@@ -473,6 +473,7 @@
   "topic":"DSA - Array",
   "question":"Missing number in array",
   "answer_link":"https://practice.geeksforgeeks.org/problems/missing-number-in-array/0"
+ },
 
 {
   
@@ -497,7 +498,7 @@
   "answer_link":"https://leetcode.com/problems/two-sum/"
 
   
-  }
+  },
 
 {
   
@@ -536,6 +537,7 @@
     },
 
 
+
     {
         "id": "203",
 
@@ -568,7 +570,50 @@
 
 
 
+
+    },
+
+    {
+        "id": "1578",
+
+        "topic": "DSA - Greedy",
+
+        "question": "Minimum Time to Make Rope Colorful",
+
+        "answer_link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/solution/"
+        
+        },
+        
+       {
+        "id": "97",
+
+        "topic": "DSA - Strings",
+
+        "question": "Interleaving String",
+
+        "answer_link": "https://dev.to/seanpgallivan/solution-interleaving-string-1497"
+        },
+ {
+        "id":"919",
+        "topic":"DSA - Depth first search",
+        "question":"Recover Binary Search Tree",
+        "answer_link":"https://leetcode.com/problems/recover-binary-search-tree/discuss/1962281/C%2B%2B-oror-Easy-to-understand"
+    },
+    {
+        "id":"133",
+        "topic":"DSA - Graph",
+        "question":"Clone Graph",
+        "answer_link":"https://www.geeksforgeeks.org/clone-an-undirected-graph/"
+    },
+    {
+        "id":"385",
+        "topic":"DSA - Graph",
+        "question":"Mini Parser",
+        "answer_link":"https://hjweds.gitbooks.io/leetcode/content/mini-parser.html"
     }
+
+        
+
 ]
 
 
