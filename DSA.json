@@ -473,6 +473,7 @@
   "topic":"DSA - Array",
   "question":"Missing number in array",
   "answer_link":"https://practice.geeksforgeeks.org/problems/missing-number-in-array/0"
+ },
 
 {
   
@@ -497,7 +498,7 @@
   "answer_link":"https://leetcode.com/problems/two-sum/"
 
   
-  }
+  },
 
 {
   
@@ -520,6 +521,17 @@
         "question": "Palindrome LinkedList",
 
         "answer_link": "https://rajritik200177.medium.com/palindrome-linkedlist-f4ada0733032"
+        
+    },
+
+    {
+        "id": "1578",
+
+        "topic": "DSA - Greedy",
+
+        "question": "Minimum Time to Make Rope Colorful",
+
+        "answer_link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/solution/"
         
     }
 ]
