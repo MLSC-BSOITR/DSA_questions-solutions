@@ -527,6 +527,12 @@
         "topic":"DSA - Stack using SLL",
         "question":"Implement stack operations using singly linkedlist in C",
         "answer_link":"https://dev.to/suman373_30/stack-using-sll-for-beginners-400g"
+    },
+    {
+        "id":"4479",
+        "topic":"DSA - Inserting a node",
+        "question":"Inserting a node",
+        "answer_link":"https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/"
     }
 ]
 
