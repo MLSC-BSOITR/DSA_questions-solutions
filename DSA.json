@@ -592,7 +592,26 @@
         "question": "Interleaving String",
 
         "answer_link": "https://dev.to/seanpgallivan/solution-interleaving-string-1497"
-        }
+        },
+ {
+        "id":"919",
+        "topic":"DSA - Depth first search",
+        "question":"Recover Binary Search Tree",
+        "answer_link":"https://leetcode.com/problems/recover-binary-search-tree/discuss/1962281/C%2B%2B-oror-Easy-to-understand"
+    },
+    {
+        "id":"133",
+        "topic":"DSA - Graph",
+        "question":"Clone Graph",
+        "answer_link":"https://www.geeksforgeeks.org/clone-an-undirected-graph/"
+    },
+    {
+        "id":"385",
+        "topic":"DSA - Graph",
+        "question":"Mini Parser",
+        "answer_link":"https://hjweds.gitbooks.io/leetcode/content/mini-parser.html"
+    }
+
         
 
 ]
