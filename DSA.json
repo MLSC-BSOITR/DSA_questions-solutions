@@ -610,6 +610,12 @@
         "topic":"DSA - Graph",
         "question":"Mini Parser",
         "answer_link":"https://hjweds.gitbooks.io/leetcode/content/mini-parser.html"
+    },
+    {
+        "id":"386",
+        "topic":"DSA - Array",
+        "question":"SubArray Sum",
+        "answer_link":"https://www.geeksforgeeks.org/sum-of-all-subarrays/"
     }
 
         
