@@ -616,15 +616,19 @@
         "topic":"DSA - Array",
         "question":"SubArray Sum",
         "answer_link":"https://www.geeksforgeeks.org/sum-of-all-subarrays/"
-    }
+    },
     {
         "id":"387",
         "topic":"DSA - Sorting Array",
         "question":"Merge Sort",
         "answer_link":"https://simplesnippets.tech/merge-sort-algorithm-with-example-with-c-code-sorting-algorithms-data-structures/"
+    },
+    {
+        "id":"388",
+        "topic":"DSA - Iterative DFS",
+        "question":"Iterative Depth First Traversal of Graph",
+        "answer_link":"https://www.geeksforgeeks.org/iterative-depth-first-traversal/"
     }
-        
-
 ]
 
 
