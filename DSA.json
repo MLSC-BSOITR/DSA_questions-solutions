@@ -646,6 +646,12 @@
      "topic":"DSA- Two Pointer",
      "question":"3Sum Closest",
      "answer_link":"https://leetcode.com/Luv_4929//"
+    },
+    {
+    "id" : "392"
+    "topic" : "DSA - Sliding Window"
+    "question" : "Longest Substring Without Repeating Characters"
+    "answer_link" : "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/805368555/"
     }
 ]
 
