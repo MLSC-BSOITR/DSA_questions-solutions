@@ -634,8 +634,18 @@
   "topic":"DSA - Array",
   "question":"3Sum",
   "answer_link":"https://www.techiedelight.com/?id=87v3"
-}
+},
 
+    {
+
+     "id":"390",
+  
+     "topic":"DSA- Two Pointer",
+  
+     "question":"3Sum Closest",
+  
+     "answer_link":"https://leetcode.com/Luv_4929//"
+    }
 ]
 
 
