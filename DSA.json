@@ -641,7 +641,12 @@
     "question" : "Add One Row to Tree"
     "answer_link" : "https://leetcode.com/problems/add-one-row-to-tree/submissions/815879905/"
 },
-
+{
+     "id":"390",
+     "topic":"DSA- Two Pointer",
+     "question":"3Sum Closest",
+     "answer_link":"https://leetcode.com/Luv_4929//"
+    }
 ]
 
 
