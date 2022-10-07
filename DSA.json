@@ -642,12 +642,21 @@
     "answer_link" : "https://leetcode.com/problems/add-one-row-to-tree/submissions/815879905/"
 },
 {
-     "id":"390",
+     "id":"391",
      "topic":"DSA- Two Pointer",
      "question":"3Sum Closest",
      "answer_link":"https://leetcode.com/Luv_4929//"
     }
 ]
+
+{
+    "id" : "392"
+    "topic" : "DSA - Array"
+    "question" : "Subset sum equal to k"
+    "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+},
+
+
 
 
    
