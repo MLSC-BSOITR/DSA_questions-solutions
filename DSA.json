@@ -642,10 +642,16 @@
     "answer_link" : "https://leetcode.com/problems/add-one-row-to-tree/submissions/815879905/"
 },
 {
-     "id":"390",
+     "id":"391",
      "topic":"DSA- Two Pointer",
      "question":"3Sum Closest",
      "answer_link":"https://leetcode.com/Luv_4929//"
+    },
+{
+     "id":"392",
+     "topic":"DSA- Array",
+     "question":"Reverse the array",
+     "answer_link":"https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
     }
 ]
 
