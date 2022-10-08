@@ -671,7 +671,17 @@
     "topic" : "DSA - Array"
     "question" : "Subset sum equal to k"
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+},
+
+{
+    "id" : "393"
+    "topic" : "DSA - Recurssion"
+    "question" : "Nth Fibbonaci Numbers"
+    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
 }
+
+
+
 ]
 
 
