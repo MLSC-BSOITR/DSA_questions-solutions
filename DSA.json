@@ -674,6 +674,13 @@
 }
 ]
 
+{
+    "id" : "390"
+    "topic" : "DSA - Stack"
+    "question" : "Subset sum equal to n"
+    "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+}
+]
 
 
    
