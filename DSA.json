@@ -668,6 +668,15 @@
     }
 ]
 
+{
+    "id" : "392"
+    "topic" : "DSA - Array"
+    "question" : "Subset sum equal to k"
+    "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+},
+
+
+
 
    
 
