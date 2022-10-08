@@ -671,7 +671,16 @@
     "topic" : "DSA - Array"
     "question" : "Subset sum equal to k"
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
-}
+},
+{
+  "id":"393",
+  
+  "topic":"DSA - Array and Binary Search",
+  
+  "question":"Median of Two Sorted Arrays",
+  
+  "answer_link":"https://leetcode.com/submissions/detail/810597802/"
+}    
 ]
 
 
