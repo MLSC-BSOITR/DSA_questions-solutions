@@ -671,7 +671,25 @@
     "topic" : "DSA - Array"
     "question" : "Subset sum equal to k"
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
-}
+},
+{
+    "id" : "80"
+    "topic" : "DSA - Binary Tree"
+    "question" : "Left View of Binary Tree"
+    "answer_link" : "https://www.geeksforgeeks.org/print-left-view-binary-tree/"
+},
+{
+    "id" : "81"
+    "topic" : "DSA - Graph"
+    "question" : "Topological sort"
+    "answer_link" : "https://www.geeksforgeeks.org/topological-sorting/"
+},
+{
+    "id" : "82"
+    "topic" : "DSA - Dynamic Programming"
+    "question" : "0 - 1 Knapsack Problem"
+    "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
+},
 ]
 
 
