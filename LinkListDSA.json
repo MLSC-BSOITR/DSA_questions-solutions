@@ -17,4 +17,14 @@
     "question":"Coin Change",
   
     "answer_link":"https://leetcode.com/himank075/"
+},
+
+{
+    "id":"502",
+  
+    "topic":"DSA - Linked lists",
+  
+    "question":"Common Interview questions",
+  
+    "answer_link":"http://sherxon.com/blog/linked-list-2"
 }
