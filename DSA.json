@@ -547,14 +547,14 @@
 
         "answer_link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"
         
-
+    },    
 
     {
         "id": "201",
         "topic": "DSA - Red Black Trees",
         "question": "Complete Explanation and Implementation of RBT",
         "answer_link": "https://www.happycoders.eu/algorithms/red-black-tree-java/"
-
+    },
     {
         "id":"4478",
         "topic":"DSA - Stack using SLL",
@@ -628,24 +628,27 @@
         "topic":"DSA - Iterative DFS",
         "question":"Iterative Depth First Traversal of Graph",
         "answer_link":"https://www.geeksforgeeks.org/iterative-depth-first-traversal/"
-    }
-{
-  "id":"389",
+    },
+    {
+    "id":"389",
   "topic":"DSA - Array",
   "question":"3Sum",
   "answer_link":"https://www.techiedelight.com/?id=87v3"
-},
-{
+    },
+    {
     "id" : "390"
     "topic" : "DSA - Tree"
     "question" : "Add One Row to Tree"
     "answer_link" : "https://leetcode.com/problems/add-one-row-to-tree/submissions/815879905/"
-},
+
+    },
 {
-     "id":"390",
+
+     "id":"391",
      "topic":"DSA- Two Pointer",
      "question":"3Sum Closest",
      "answer_link":"https://leetcode.com/Luv_4929//"
+
 },
 {
     "id":"391",
@@ -653,7 +656,43 @@
     "question":"Print the elements of the matrix in spiral order",
     "answer_link":"https://leetcode.com/problems/spiral-matrix/discuss/20599/Super-Simple-and-Easy-to-Understand-Solution"
 }
+
+    },
+
+    {
+         "id":"392",
+         "topic":"DSA - Array",
+         "question":"Find the largest number possible from a given set of numbers",
+         "answer_link":"https://www.techiedelight.com/find-largest-number-possible-set-given-numbers/"
+    }
+
+{
+     "id":"392",
+     "topic":"DSA- Array",
+     "question":"Reverse the array",
+     "answer_link":"https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+    } , 
+{
+        "id":"393",
+        "topic":"DSA - Graph",
+        "question":"Is Graph Bipartite",
+        "answer_link":"https://leetcode.com/submissions/detail/772398686/"
+    
+    },
+{
+    "id" : "394"
+    "topic" : "DSA - Sliding Window"
+    "question" : "Longest Substring Without Repeating Characters"
+    "answer_link" : "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/805368555/"
+    },
+{
+    "id" : "392"
+    "topic" : "DSA - Array"
+    "question" : "Subset sum equal to k"
+    "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+
 ]
+
 
 
    
