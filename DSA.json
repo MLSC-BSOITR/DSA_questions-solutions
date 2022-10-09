@@ -675,7 +675,13 @@
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
-}
+},
+{
+        "id": "396",
+        "topic": "DSA_BinarySearchTree",
+        "question": "Check if two BSTs contain same set of elements",
+        "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
+    }
 ]
 
 
