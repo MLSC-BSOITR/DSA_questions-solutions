@@ -610,12 +610,34 @@
 
 },
 {
+    "id" : "80"
+    "topic" : "DSA - Binary Tree"
+    "question" : "Left View of Binary Tree"
+    "answer_link" : "https://www.geeksforgeeks.org/print-left-view-binary-tree/"
+},
+{
+    "id" : "81"
+    "topic" : "DSA - Graph"
+    "question" : "Topological sort"
+    "answer_link" : "https://www.geeksforgeeks.org/topological-sorting/"
+},
+{
+    "id" : "82"
+    "topic" : "DSA - Dynamic Programming"
+    "question" : "0 - 1 Knapsack Problem"
+    "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
+},
+
+
+},
+{
     "id":"395",
     "topic":"DSA - MATRIX",
     "question":"Matrix boundary Traversal",
     "answer_link":"https://www.geeksforgeeks.org/boundary-elements-matrix/"
 
 }
+
 
 
 ]
