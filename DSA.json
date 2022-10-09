@@ -39,6 +39,12 @@
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     },
     {
+        "id": "147",
+        "topic": "DSA - Stacks",
+        "question": "Implement a queue using instances of stack data structure and operations on them",
+        "answerLink": "https://www.geeksforgeeks.org/queue-using-stacks/"
+    },
+    {
         "id": "102",
         "topic": "DSA_LinkedList",
         "question": "Delete N nodes after M nodes of a linked list",
@@ -135,6 +141,7 @@
         "question": "What is linear data structure?",
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     }
+    
   {
         "id": "99",
         "topic": "DSA_advantages and disadvantages",
