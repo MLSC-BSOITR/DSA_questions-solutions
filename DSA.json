@@ -665,17 +665,25 @@
 
 
 },
-
-
-
-
-
 {
-    "id" : "390"
-    "topic" : "DSA - Stack"
-    "question" : "Subset sum equal to n"
+    "id" : "390",
+    "topic" : "DSA - Stack",
+    "question" : "Subset sum equal to n",
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+},
+{
+    "id" : "391",
+    "topic" : "DSA - HashMap",
+    "question" : "2 sum ",
+    "answer_link" : " https://leetcode.com/problems/two-sum/ "
+},
+{
+    "id" : "392",
+    "topic" : "DSA - Basic",
+    "question" : "Reverse Number",
+    "answer_link" : " https://leetcode.com/problems/reverse-integer/ "
 }
+
 ]
 
 
