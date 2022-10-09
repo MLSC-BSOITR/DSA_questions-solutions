@@ -609,6 +609,18 @@
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
 
 },
+{
+  "id":"393",
+  
+  "topic":"DSA - Array and Binary Search",
+  
+  "question":"Median of Two Sorted Arrays",
+  
+  "answer_link":"https://leetcode.com/submissions/detail/810597802/"
+}    
+
+
+},
 
 {
     "id" : "393"
@@ -646,11 +658,11 @@
     "answer_link":"https://www.geeksforgeeks.org/boundary-elements-matrix/"
 
 
-}
+},
 
 
 
-]
+
 
 {
     "id" : "390"
