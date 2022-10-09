@@ -17,4 +17,14 @@
     "question":"Coin Change",
   
     "answer_link":"https://leetcode.com/himank075/"
-}
+},
+{
+
+  "id":"502",
+  
+  "topic":"DSA - Linked List",
+  
+  "question":"Find middle element of the given linked list",
+  
+  "answer_link":"https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/"
+},
