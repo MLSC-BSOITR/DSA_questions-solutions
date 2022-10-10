@@ -39,10 +39,17 @@
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     },
     {
+
         "id": "7",
         "topic": "Recursion",
         "question": "Swapping pairs make sum equal",
         "answerLink": "https://www.geeksforgeeks.org/find-a-pair-swapping-which-makes-sum-of-two-arrays-same/"
+
+        "id": "147",
+        "topic": "DSA - Stacks",
+        "question": "Implement a queue using instances of stack data structure and operations on them",
+        "answerLink": "https://www.geeksforgeeks.org/queue-using-stacks/"
+
     },
     {
         "id": "102",
@@ -63,6 +70,14 @@
         "question": "Move all negative elements to end in order with extra space allowed",
         "answerLink": "https://www.geeksforgeeks.org/move-ve-elements-end-order-extra-space-allowed/"
     },
+    ,
+    {
+        "id": "7611",
+        "topic": "DSA_Tree",
+        "question": "Count the leaf node of a tree",
+        "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
+        "answerLink": "https://www.programiz.com/java-programming/examples/count-leaf-nodes-of-tree"
+    }
     {
         "id": "150",
         "topic": "DSA_Linkedlist",
@@ -92,6 +107,7 @@
         "topic": "Data Structure",
         "question": "How are the elements of a 2D array stored in the memory?",
         "answerLink": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
+        "answerLink": "https://eduladder.com/viewquestions/25264/How-are-the-elements-of-a-2D-array-are-stored-in-the-memory"
     },
     {
         "id": "110",
@@ -141,6 +157,7 @@
         "question": "What is linear data structure?",
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     }
+    
   {
         "id": "99",
         "topic": "DSA_advantages and disadvantages",
@@ -619,6 +636,15 @@
     "topic" : "DSA - Array"
     "question" : "Subset sum equal to k"
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+   },
+{
+    "id" : "395"
+    "topic" : "DSA - Sliding Window"
+    "question" : "Reverse Integer"
+    "answer_link" : "https://leetcode.com/problems/reverse-integer/submissions/778342803/"
+    },
+]
+
 
 },
 {
@@ -638,9 +664,7 @@
     "id" : "393"
     "topic" : "DSA - Recurssion"
     "question" : "Nth Fibbonaci Numbers"
-    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
-
-
+    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
 },
 {
     "id" : "80"
@@ -673,15 +697,65 @@
 },
 
 
+{
+
+}
+    "id" : "396"
+    "topic" : "DSA - Stack"
+    "question" : "Tower of Hanoi"
+    "answer_link" : "https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/"
 
 
 
 {
-    "id" : "390"
-    "topic" : "DSA - Stack"
-    "question" : "Subset sum equal to n"
+    "id" : "390",
+    "topic" : "DSA - Stack",
+    "question" : "Subset sum equal to n",
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+
+},
+{
+
+     "id":"391",
+     "topic":"DSA - Array",
+     "question":"Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.",
+     "answer_link":"https://leetcode.com/submissions/detail/806596139/"
+
+
+},
+{
+    "id" : "391",
+    "topic" : "DSA - HashMap",
+    "question" : "2 sum ",
+    "answer_link" : " https://leetcode.com/problems/two-sum/ "
+},
+{
+    "id" : "392",
+    "topic" : "DSA - Basic",
+    "question" : "Reverse Number",
+    "answer_link" : " https://leetcode.com/problems/reverse-integer/ "
 }
+
+
+
+
+}
+
+{
+    "id" : "28",
+    "topic" : "DSA - Bitmanipulation",
+    "question" : "Count Set Bits",
+    "answer_link" : "https://ide.codingblocks.com/s/675470 "
+},
+
+},
+{
+        "id": "396",
+        "topic": "DSA_BinarySearchTree",
+        "question": "Check if two BSTs contain same set of elements",
+        "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
+    }
+
 ]
 
 
