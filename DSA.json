@@ -665,16 +665,17 @@
 
 
 },
-
-
-
-
-
 {
     "id" : "390"
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+},
+{
+    "id" : "391"
+    "topic" : "DSA - Recursion"
+    "question" : "Lucky Numbers"
+    "answer_link" : " https://www.geeksforgeeks.org/lucky-numbers/ "
 }
 ]
 
