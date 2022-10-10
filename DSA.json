@@ -39,6 +39,12 @@
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     },
     {
+        "id": "7",
+        "topic": "Recursion",
+        "question": "Swapping pairs make sum equal",
+        "answerLink": "https://www.geeksforgeeks.org/find-a-pair-swapping-which-makes-sum-of-two-arrays-same/"
+    },
+    {
         "id": "102",
         "topic": "DSA_LinkedList",
         "question": "Delete N nodes after M nodes of a linked list",
