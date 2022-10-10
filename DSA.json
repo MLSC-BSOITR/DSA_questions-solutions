@@ -57,6 +57,14 @@
         "question": "Move all negative elements to end in order with extra space allowed",
         "answerLink": "https://www.geeksforgeeks.org/move-ve-elements-end-order-extra-space-allowed/"
     },
+    ,
+    {
+        "id": "7611",
+        "topic": "DSA_Tree",
+        "question": "Count the leaf node of a tree",
+        "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
+        "answerLink": "https://www.programiz.com/java-programming/examples/count-leaf-nodes-of-tree"
+    }
     {
         "id": "150",
         "topic": "DSA_Linkedlist",
