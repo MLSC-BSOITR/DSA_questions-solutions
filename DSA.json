@@ -708,6 +708,15 @@
 
 },
 {
+
+     "id":"391",
+     "topic":"DSA - Array",
+     "question":"Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.",
+     "answer_link":"https://leetcode.com/submissions/detail/806596139/"
+
+
+},
+{
     "id" : "391",
     "topic" : "DSA - HashMap",
     "question" : "2 sum ",
@@ -719,6 +728,7 @@
     "question" : "Reverse Number",
     "answer_link" : " https://leetcode.com/problems/reverse-integer/ "
 }
+
 
 
 
