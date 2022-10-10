@@ -466,7 +466,6 @@
     "topic":"DSA- Spiral Matrix",
     "question":"Print the elements of the matrix in spiral order",
     "answer_link":"https://leetcode.com/problems/spiral-matrix/discuss/20599/Super-Simple-and-Easy-to-Understand-Solution"
-}
 
     },
 
@@ -629,7 +628,7 @@
                 "question": "Bell Numbers (Number of ways to Partition a Set)",
                 "answer_link": "https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/?ref=lbp"
             }
-        ]
+        
 
 {
     "id" : "395"
@@ -693,7 +692,6 @@
     "topic" : "DSA - Dynamic Programming"
     "question" : "0 - 1 Knapsack Problem"
     "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
-},
 
 {
     "id":"395",
@@ -734,6 +732,18 @@
 },
 {
     "id" : "390"
+
+    "topic" : "DSA - Stack"
+    "question" : "Subset sum equal to n"
+    "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+}
+{
+    "id" : "999"
+    "topic" : "Get to know about Algorithms"
+    "question" : "What is algorithm and why analysis of it is important"
+    "answer_link" : " https://www.geeksforgeeks.org/what-is-algorithm-and-why-analysis-of-it-is-important/ "
+}
+
     "topic" : "DSA - Sorting"
     "question" : "Merge Intervals"
     "answer_link" : " https://leetcode.com/submissions/detail/819350340/ "
@@ -807,6 +817,7 @@
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
     }
+
 
 
 ]
