@@ -616,6 +616,13 @@
 
 },
 {
+    "id" : "9461"
+    "topic" : "DSA - Strings"
+    "question" : "Break a palindrome solution"
+    "answer_link" : "https://leetcode.com/problems/break-a-palindrome/discuss/2685600/Break-a-palindrome-solution-or-JAVA"
+
+},
+{
   "id":"393",
   
   "topic":"DSA - Array and Binary Search",
