@@ -675,6 +675,15 @@
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+},
+
+
+
+{
+    "id" : "202"
+    "topic" : " DSA -Expression Parsing"
+    "question" : "What is notation"
+    "answer_link" : " https://www.tutorialspoint.com/data_structures_algorithms/expression_parsing.htm "
 }
 ]
 
