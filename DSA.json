@@ -675,6 +675,13 @@
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+},
+{
+
+  "id":"391",
+  "topic":"Dynamic Programming",
+  "question":"Given an integer numRows, return the first numRows of Pascal's triangle.",
+  "answer_link":"https://leetcode.com/submissions/detail/805009380/"
 }
 ]
 
