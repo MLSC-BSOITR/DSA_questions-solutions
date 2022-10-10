@@ -443,7 +443,6 @@
     "topic":"DSA- Spiral Matrix",
     "question":"Print the elements of the matrix in spiral order",
     "answer_link":"https://leetcode.com/problems/spiral-matrix/discuss/20599/Super-Simple-and-Easy-to-Understand-Solution"
-}
 
     },
 
@@ -600,7 +599,7 @@
                 "question": "Subset sum equal to k",
                 "answer_link": " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
             }
-        ]
+        
 
 {
     "id" : "395"
@@ -653,7 +652,6 @@
     "topic" : "DSA - Dynamic Programming"
     "question" : "0 - 1 Knapsack Problem"
     "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
-},
 
 
 },
@@ -675,6 +673,12 @@
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+}
+{
+    "id" : "999"
+    "topic" : "Get to know about Algorithms"
+    "question" : "What is algorithm and why analysis of it is important"
+    "answer_link" : " https://www.geeksforgeeks.org/what-is-algorithm-and-why-analysis-of-it-is-important/ "
 }
 ]
 
