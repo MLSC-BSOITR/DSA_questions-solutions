@@ -671,10 +671,17 @@
 
 
 {
-    "id" : "390"
-    "topic" : "DSA - Stack"
-    "question" : "Subset sum equal to n"
+    "id" : "390",
+    "topic" : "DSA - Stack",
+    "question" : "Subset sum equal to n",
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+}
+{
+    "id" : "500",
+    "topic" : "string",
+     "courseName" : "Birthday Cake Candles",
+    "answer_link" : "https://www.hackerrank.com/challenges/birthday-cake-candles/problem?h_r=profile"
+
 }
 ]
 
