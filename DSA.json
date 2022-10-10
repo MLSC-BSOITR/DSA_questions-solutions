@@ -39,6 +39,19 @@
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     },
     {
+
+        "id": "7",
+        "topic": "Recursion",
+        "question": "Swapping pairs make sum equal",
+        "answerLink": "https://www.geeksforgeeks.org/find-a-pair-swapping-which-makes-sum-of-two-arrays-same/"
+
+        "id": "147",
+        "topic": "DSA - Stacks",
+        "question": "Implement a queue using instances of stack data structure and operations on them",
+        "answerLink": "https://www.geeksforgeeks.org/queue-using-stacks/"
+
+    },
+    {
         "id": "102",
         "topic": "DSA_LinkedList",
         "question": "Delete N nodes after M nodes of a linked list",
@@ -57,6 +70,14 @@
         "question": "Move all negative elements to end in order with extra space allowed",
         "answerLink": "https://www.geeksforgeeks.org/move-ve-elements-end-order-extra-space-allowed/"
     },
+    ,
+    {
+        "id": "7611",
+        "topic": "DSA_Tree",
+        "question": "Count the leaf node of a tree",
+        "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
+        "answerLink": "https://www.programiz.com/java-programming/examples/count-leaf-nodes-of-tree"
+    }
     {
         "id": "150",
         "topic": "DSA_Linkedlist",
@@ -86,6 +107,7 @@
         "topic": "Data Structure",
         "question": "How are the elements of a 2D array stored in the memory?",
         "answerLink": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
+        "answerLink": "https://eduladder.com/viewquestions/25264/How-are-the-elements-of-a-2D-array-are-stored-in-the-memory"
     },
     {
         "id": "110",
@@ -135,6 +157,7 @@
         "question": "What is linear data structure?",
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     }
+    
   {
         "id": "99",
         "topic": "DSA_advantages and disadvantages",
@@ -443,7 +466,6 @@
     "topic":"DSA- Spiral Matrix",
     "question":"Print the elements of the matrix in spiral order",
     "answer_link":"https://leetcode.com/problems/spiral-matrix/discuss/20599/Super-Simple-and-Easy-to-Understand-Solution"
-}
 
     },
 
@@ -599,8 +621,14 @@
                 "topic": "DSA - Array",
                 "question": "Subset sum equal to k",
                 "answer_link": " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+            },
+            {
+                "id": "793",
+                "topic": "DSA - Array",
+                "question": "Bell Numbers (Number of ways to Partition a Set)",
+                "answer_link": "https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/?ref=lbp"
             }
-        ]
+        
 
 {
     "id" : "395"
@@ -613,6 +641,22 @@
     "topic" : "DSA - Array"
     "question" : "Subset sum equal to k"
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+   },
+{
+    "id" : "395"
+    "topic" : "DSA - Sliding Window"
+    "question" : "Reverse Integer"
+    "answer_link" : "https://leetcode.com/problems/reverse-integer/submissions/778342803/"
+    },
+]
+
+
+},
+{
+    "id" : "9461"
+    "topic" : "DSA - Strings"
+    "question" : "Break a palindrome solution"
+    "answer_link" : "https://leetcode.com/problems/break-a-palindrome/discuss/2685600/Break-a-palindrome-solution-or-JAVA"
 
 },
 {
@@ -623,18 +667,13 @@
   "question":"Median of Two Sorted Arrays",
   
   "answer_link":"https://leetcode.com/submissions/detail/810597802/"
-}    
-
-
-},
+},   
 
 {
     "id" : "393"
     "topic" : "DSA - Recurssion"
     "question" : "Nth Fibbonaci Numbers"
-    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
-
-
+    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
 },
 {
     "id" : "80"
@@ -653,25 +692,47 @@
     "topic" : "DSA - Dynamic Programming"
     "question" : "0 - 1 Knapsack Problem"
     "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
-},
 
-
-},
 {
     "id":"395",
     "topic":"DSA - MATRIX",
     "question":"Matrix boundary Traversal",
     "answer_link":"https://www.geeksforgeeks.org/boundary-elements-matrix/"
+},
 
+{
+
+
+    "id" : "396"
+    "topic" : "DSA - Stack"
+    "question" : "Tower of Hanoi"
+    "answer_link" : "https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/"
+
+}
+
+
+
+{
+    "id" : "390",
+    "topic" : "DSA - Stack",
+    "question" : "Subset sum equal to n",
+    "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
 
 },
 
 
 
+{
+    "id" : "202"
+    "topic" : " DSA -Expression Parsing"
+    "question" : "What is notation"
+    "answer_link" : " https://www.tutorialspoint.com/data_structures_algorithms/expression_parsing.htm "
 
 
+},
 {
     "id" : "390"
+
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
@@ -682,7 +743,91 @@
     "topic" : "DSA - Graph And Union Find"
     "question" : "Number of Islands"
     "answer_link" : "https://discuss.geeksforgeeks.org/comment/4d325ce7b3404f094b9b7bd9b5129c33/"
+},
+
+{
+    "id" : "999"
+    "topic" : "Get to know about Algorithms"
+    "question" : "What is algorithm and why analysis of it is important"
+    "answer_link" : " https://www.geeksforgeeks.org/what-is-algorithm-and-why-analysis-of-it-is-important/ "
 }
+
+    "topic" : "DSA - Sorting"
+    "question" : "Merge Intervals"
+    "answer_link" : " https://leetcode.com/submissions/detail/819350340/ "
+
+
+},
+{
+    "id" : "391"
+    "topic" : "DSA - Recursion"
+    "question" : "Lucky Numbers"
+    "answer_link" : " https://www.geeksforgeeks.org/lucky-numbers/ "
+
+
+},
+{
+
+     "id":"391",
+     "topic":"DSA - Array",
+     "question":"Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.",
+     "answer_link":"https://leetcode.com/submissions/detail/806596139/"
+
+
+},
+{
+    "id" : "391",
+    "topic" : "DSA - HashMap",
+    "question" : "2 sum ",
+    "answer_link" : " https://leetcode.com/problems/two-sum/ "
+},
+{
+    "id" : "392",
+    "topic" : "DSA - Basic",
+    "question" : "Reverse Number",
+    "answer_link" : " https://leetcode.com/problems/reverse-integer/ "
+},
+
+{
+    "id" : "391"
+    "topic" : "DSA - Array"
+    "question" : "Fitting The Array"
+    "answer_link" : " https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1 "
+},
+
+
+
+
+
+
+
+
+
+{
+        "id": "501",
+        "topic": "Data Structures",
+        "question": "Alice and Marks",
+        "answerLink": "https://www.codechef.com/viewsolution/74868773"
+    }
+
+
+{
+    "id" : "28",
+    "topic" : "DSA - Bitmanipulation",
+    "question" : "Count Set Bits",
+    "answer_link" : "https://ide.codingblocks.com/s/675470 "
+},
+
+},
+{
+        "id": "396",
+        "topic": "DSA_BinarySearchTree",
+        "question": "Check if two BSTs contain same set of elements",
+        "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
+    }
+
+
+
 
 ]
 
