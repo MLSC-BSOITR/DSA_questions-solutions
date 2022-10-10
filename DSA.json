@@ -676,6 +676,12 @@
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
 }
+{
+        "id": "501",
+        "topic": "Data Structures",
+        "question": "Alice and Marks",
+        "answerLink": "https://www.codechef.com/viewsolution/74868773"
+    }
 ]
 
 
