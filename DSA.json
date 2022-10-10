@@ -654,21 +654,13 @@
     "question" : "0 - 1 Knapsack Problem"
     "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
 },
-
-
 },
 {
     "id":"395",
     "topic":"DSA - MATRIX",
     "question":"Matrix boundary Traversal",
     "answer_link":"https://www.geeksforgeeks.org/boundary-elements-matrix/"
-
-
 },
-
-
-
-
 
 {
     "id" : "390"
@@ -676,6 +668,12 @@
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
 }
+{
+    "id" : "391"
+    "topic" : "DSA - Array"
+    "question" : "Fitting The Array"
+    "answer_link" : " https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1 "
+},
 ]
 
 
