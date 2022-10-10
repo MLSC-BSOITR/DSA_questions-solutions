@@ -675,7 +675,15 @@
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+},
+
+{
+    "id" : "401"
+    "topic" : "DSA - Graph And Union Find"
+    "question" : "Number of Islands"
+    "answer_link" : "https://discuss.geeksforgeeks.org/comment/4d325ce7b3404f094b9b7bd9b5129c33/"
 }
+
 ]
 
 
