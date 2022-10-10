@@ -665,8 +665,12 @@
 
 
 },
-
-
+{
+    "id":"396",
+    "topic":"DSA - Stack in STL",
+    "question" : "Solving Stack Using Push & Pop",
+    "answer_link":"https://www.geeksforgeeks.org/stack-push-and-pop-in-c-stl/"
+},
 
 
 
@@ -677,6 +681,7 @@
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
 }
 ]
+
 
 
    
