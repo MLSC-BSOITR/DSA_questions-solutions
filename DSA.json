@@ -613,6 +613,15 @@
     "topic" : "DSA - Array"
     "question" : "Subset sum equal to k"
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+   },
+{
+    "id" : "395"
+    "topic" : "DSA - Sliding Window"
+    "question" : "Reverse Integer"
+    "answer_link" : "https://leetcode.com/problems/reverse-integer/submissions/778342803/"
+    },
+]
+
 
 },
 {
@@ -632,9 +641,7 @@
     "id" : "393"
     "topic" : "DSA - Recurssion"
     "question" : "Nth Fibbonaci Numbers"
-    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
-
-
+    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
 },
 {
     "id" : "80"
