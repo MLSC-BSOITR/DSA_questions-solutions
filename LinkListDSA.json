@@ -17,4 +17,15 @@
     "question":"Coin Change",
   
     "answer_link":"https://leetcode.com/himank075/"
+},
+{
+
+    "id":"502",
+  
+    "topic":"DSA - Linked List",
+  
+    "question":"Quick sort on singly Linked List",
+  
+    "answer_link":"https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/"
 }
+
