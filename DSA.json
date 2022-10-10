@@ -761,6 +761,14 @@
 }
 
 {
+        "id": "501",
+        "topic": "Data Structures",
+        "question": "Alice and Marks",
+        "answerLink": "https://www.codechef.com/viewsolution/74868773"
+    }
+
+
+{
     "id" : "28",
     "topic" : "DSA - Bitmanipulation",
     "question" : "Count Set Bits",
