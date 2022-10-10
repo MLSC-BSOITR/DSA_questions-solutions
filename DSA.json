@@ -700,12 +700,7 @@
     "topic":"DSA - MATRIX",
     "question":"Matrix boundary Traversal",
     "answer_link":"https://www.geeksforgeeks.org/boundary-elements-matrix/"
-
-
 },
-
-
-
 
 {
 
@@ -773,14 +768,22 @@
     "topic" : "DSA - Basic",
     "question" : "Reverse Number",
     "answer_link" : " https://leetcode.com/problems/reverse-integer/ "
-}
+},
+
+{
+    "id" : "391"
+    "topic" : "DSA - Array"
+    "question" : "Fitting The Array"
+    "answer_link" : " https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1 "
+},
 
 
 
 
 
 
-}
+
+
 
 {
         "id": "501",
@@ -804,6 +807,7 @@
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
     }
+
 
 ]
 
