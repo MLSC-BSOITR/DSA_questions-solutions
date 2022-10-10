@@ -739,6 +739,14 @@
 },
 
 {
+
+  "id":"391",
+  "topic":"Dynamic Programming",
+  "question":"Given an integer numRows, return the first numRows of Pascal's triangle.",
+  "answer_link":"https://leetcode.com/submissions/detail/805009380/"
+
+
+{
     "id" : "401"
     "topic" : "DSA - Graph And Union Find"
     "question" : "Number of Islands"
@@ -750,6 +758,7 @@
     "topic" : "Get to know about Algorithms"
     "question" : "What is algorithm and why analysis of it is important"
     "answer_link" : " https://www.geeksforgeeks.org/what-is-algorithm-and-why-analysis-of-it-is-important/ "
+
 }
 
     "topic" : "DSA - Sorting"
