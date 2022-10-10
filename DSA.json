@@ -599,6 +599,12 @@
                 "topic": "DSA - Array",
                 "question": "Subset sum equal to k",
                 "answer_link": " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
+            },
+            {
+                "id": "793",
+                "topic": "DSA - Array",
+                "question": "Bell Numbers (Number of ways to Partition a Set)",
+                "answer_link": "https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/?ref=lbp"
             }
         ]
 
@@ -623,10 +629,7 @@
   "question":"Median of Two Sorted Arrays",
   
   "answer_link":"https://leetcode.com/submissions/detail/810597802/"
-}    
-
-
-},
+},   
 
 {
     "id" : "393"
@@ -655,8 +658,6 @@
     "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
 },
 
-
-},
 {
     "id":"395",
     "topic":"DSA - MATRIX",
