@@ -696,6 +696,16 @@
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+
+}
+
+{
+    "id" : "28",
+    "topic" : "DSA - Bitmanipulation",
+    "question" : "Count Set Bits",
+    "answer_link" : "https://ide.codingblocks.com/s/675470 "
+},
+
 },
 {
         "id": "396",
@@ -703,6 +713,7 @@
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
     }
+
 ]
 
 
