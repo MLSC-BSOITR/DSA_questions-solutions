@@ -706,14 +706,16 @@
 
 
 
+
 {
 
-}
+
     "id" : "396"
     "topic" : "DSA - Stack"
     "question" : "Tower of Hanoi"
     "answer_link" : "https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/"
 
+}
 
 
 
@@ -722,6 +724,14 @@
     "topic" : "DSA - Stack",
     "question" : "Subset sum equal to n",
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+
+},
+{
+    "id" : "390"
+    "topic" : "DSA - Sorting"
+    "question" : "Merge Intervals"
+    "answer_link" : " https://leetcode.com/submissions/detail/819350340/ "
+
 
 },
 {
@@ -753,6 +763,7 @@
     "question" : "Reverse Number",
     "answer_link" : " https://leetcode.com/problems/reverse-integer/ "
 }
+
 
 
 
