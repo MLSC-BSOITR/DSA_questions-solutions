@@ -648,8 +648,6 @@
     "question" : "Reverse Integer"
     "answer_link" : "https://leetcode.com/problems/reverse-integer/submissions/778342803/"
     },
-]
-
 
 },
 {
@@ -673,7 +671,7 @@
     "id" : "393"
     "topic" : "DSA - Recurssion"
     "question" : "Nth Fibbonaci Numbers"
-    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+    "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
 },
 {
     "id" : "80"
@@ -838,18 +836,21 @@
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
  },
+
 {
     "id": "369",
     "topic": "Dynamic Programming",
     "question": "Max length chain",
     "answerLink": "https://practice.geeksforgeeks.org/problems/max-length-chain/1"
 
-}
+},
 
-
-
-]
-
+{
+      "id": "1010",
+      "topic": "All DSA Chapters",
+      "question": "All Important DSA questions for cracking product based companies",
+      "answerLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+},
 
 
    
