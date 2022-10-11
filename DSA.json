@@ -870,6 +870,15 @@
 
 },
 
+{
+    "id": "370",
+    "topic": "Dynamic Programming",
+    "question": "Longest Common Subsequence Problem",
+    "answerLink": "https://www.techiedelight.com/longest-common-subsequence/"
+
+},
+
+
 
     {
         "id": "502",
@@ -877,6 +886,7 @@
         "question": "Find maximum Product Subarray",
         "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
     }
+
 
 
 
