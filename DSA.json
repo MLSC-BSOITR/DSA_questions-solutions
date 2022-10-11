@@ -837,8 +837,14 @@
         "topic": "DSA_BinarySearchTree",
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
-    }
+ },
+{
+    "id": "369",
+    "topic": "Dynamic Programming",
+    "question": "Max length chain",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/max-length-chain/1"
 
+}
 
 
 
