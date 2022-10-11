@@ -21,6 +21,12 @@
         "answerLink": "https://www.interviewbit.com/data-structure-interview-questions/#applications-of-data-structures"
     },
     {
+        "id": "12601",
+        "topic": "Data Structures",
+        "question": "Detect a Cycle in Directed Graph?",
+        "answerLink": "https://youtu.be/iTBaI90lpDQ"
+    },
+    {
         "id": "4",
         "topic": "Data Structures",
         "question": "What is shell sort?",
