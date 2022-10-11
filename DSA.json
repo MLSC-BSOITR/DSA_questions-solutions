@@ -730,12 +730,21 @@
 
 
 },
+
 {
     "id" : "390"
 
     "topic" : "DSA - Stack"
     "question" : "Subset sum equal to n"
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
+
+}{
+    "id" : "26"
+    "topic" : "DSA - Two Pointers"
+    "question" : "Remove Duplicates from Sorted Array"
+    "answer_link" : " https://leetcode.com/submissions/detail/797859252/ "
+},
+
 },
 
 {
@@ -856,6 +865,7 @@
         "question": "Find maximum Product Subarray",
         "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
     }
+
 
 
 ]
