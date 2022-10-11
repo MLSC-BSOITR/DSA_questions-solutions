@@ -837,9 +837,14 @@
         "topic": "DSA_BinarySearchTree",
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
+    },
+
+    {
+        "id": "502",
+        "topic": "DSA - Subarray",
+        "question": "Find maximum Product Subarray",
+        "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
     }
-
-
 
 
 ]
