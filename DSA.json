@@ -824,6 +824,12 @@
     "question" : "Solving Stack Using Push & Pop",
     "answer_link":"https://www.geeksforgeeks.org/stack-push-and-pop-in-c-stl/"
 },
+{
+    "id":"396",
+    "topic":"prefix-postfix-conversion",
+    "question" : "Prefix: An expression is called the prefix expression if the operator appears in the expression before the operands. Simply of the form (operator operand1 operand2). ",
+    "answer_link":"https://www.geeksforgeeks.org/prefix-postfix-conversion/" 
+}
 
 
 
