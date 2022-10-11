@@ -844,6 +844,13 @@
     "question": "Max length chain",
     "answerLink": "https://practice.geeksforgeeks.org/problems/max-length-chain/1"
 
+},
+{
+    "id": "370",
+    "topic": "Dynamic Programming",
+    "question": "Longest Common Subsequence Problem",
+    "answerLink": "https://www.techiedelight.com/longest-common-subsequence/"
+
 }
 
 
