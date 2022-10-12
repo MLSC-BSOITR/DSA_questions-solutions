@@ -887,6 +887,12 @@
         "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
     }
 
+    {
+        "id": "622",
+        "topic": "DSA -Inplace rotate square matrix by 90 degrees",
+        "question": "rotate a matrix by 90 deg. ",
+        "answer_link": "https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/"
+    }
 
 
 
