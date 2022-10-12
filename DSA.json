@@ -159,7 +159,7 @@
     },
     {
         "id": "15",
-        "topic": "DSA Linear Data Structur",
+        "topic": "DSA Linear Data Structure",
         "question": "What is linear data structure?",
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
     }
@@ -480,7 +480,7 @@
          "topic":"DSA - Array",
          "question":"Find the largest number possible from a given set of numbers",
          "answer_link":"https://www.techiedelight.com/find-largest-number-possible-set-given-numbers/"
-    }
+    },
 
 {
      "id":"392",
@@ -588,7 +588,7 @@
                 "topic": "DSA - Iterative DFS",
                 "question": "Iterative Depth First Traversal of Graph",
                 "answer_link": "https://www.geeksforgeeks.org/iterative-depth-first-traversal/"
-            }
+            },
 {
                 "id": "389",
                 "topic": "DSA - Array",
@@ -649,17 +649,17 @@
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
    },
 {
-    "id" : "395"
-    "topic" : "DSA - Sliding Window"
-    "question" : "Reverse Integer"
+    "id" : "395",
+    "topic" : "DSA - Sliding Window",
+    "question" : "Reverse Integer",
     "answer_link" : "https://leetcode.com/problems/reverse-integer/submissions/778342803/"
     },
 
 },
 {
-    "id" : "9461"
-    "topic" : "DSA - Strings"
-    "question" : "Break a palindrome solution"
+    "id" : "9461",
+    "topic" : "DSA - Strings",
+    "question" : "Break a palindrome solution",
     "answer_link" : "https://leetcode.com/problems/break-a-palindrome/discuss/2685600/Break-a-palindrome-solution-or-JAVA"
 
 },
@@ -675,28 +675,28 @@
 
 {
     "id" : "393"
-    "topic" : "DSA - Recurssion"
-    "question" : "Nth Fibbonaci Numbers"
+    "topic" : "DSA - Recurssion",
+    "question" : "Nth Fibbonaci Numbers",
     "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
 },
 {
-    "id" : "80"
-    "topic" : "DSA - Binary Tree"
-    "question" : "Left View of Binary Tree"
+    "id" : "80",
+    "topic" : "DSA - Binary Tree",
+    "question" : "Left View of Binary Tree",
     "answer_link" : "https://www.geeksforgeeks.org/print-left-view-binary-tree/"
 },
 {
-    "id" : "81"
-    "topic" : "DSA - Graph"
-    "question" : "Topological sort"
+    "id" : "81",
+    "topic" : "DSA - Graph",
+    "question" : "Topological sort",
     "answer_link" : "https://www.geeksforgeeks.org/topological-sorting/"
 },
 {
-    "id" : "82"
-    "topic" : "DSA - Dynamic Programming"
-    "question" : "0 - 1 Knapsack Problem"
+    "id" : "82",
+    "topic" : "DSA - Dynamic Programming",
+    "question" : "0 - 1 Knapsack Problem",
     "answer_link" : "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
-
+},
 {
     "id":"395",
     "topic":"DSA - MATRIX",
@@ -707,9 +707,9 @@
 {
 
 
-    "id" : "396"
-    "topic" : "DSA - Stack"
-    "question" : "Tower of Hanoi"
+    "id" : "396",
+    "topic" : "DSA - Stack",
+    "question" : "Tower of Hanoi",
     "answer_link" : "https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/"
 
 }
@@ -727,29 +727,31 @@
 
 
 {
-    "id" : "202"
-    "topic" : " DSA -Expression Parsing"
-    "question" : "What is notation"
+    "id" : "202",
+    "topic" : " DSA -Expression Parsing",
+    "question" : "What is notation",
     "answer_link" : " https://www.tutorialspoint.com/data_structures_algorithms/expression_parsing.htm "
 
 
 },
 
 {
-    "id" : "390"
+    "id" : "390",
 
-    "topic" : "DSA - Stack"
-    "question" : "Subset sum equal to n"
+    "topic" : "DSA - Stack",
+    "question" : "Subset sum equal to n",
     "answer_link" : " https://www.forgeeks.org/subset-sum-problem-dp-25/ "
 
-}{
-    "id" : "26"
-    "topic" : "DSA - Two Pointers"
-    "question" : "Remove Duplicates from Sorted Array"
+},
+
+{
+    "id" : "26",
+    "topic" : "DSA - Two Pointers",
+    "question" : "Remove Duplicates from Sorted Array",
     "answer_link" : " https://leetcode.com/submissions/detail/797859252/ "
 },
 
-},
+
 
 {
 
@@ -760,30 +762,33 @@
 
 
 {
-    "id" : "401"
-    "topic" : "DSA - Graph And Union Find"
-    "question" : "Number of Islands"
+    "id" : "401",
+    "topic" : "DSA - Graph And Union Find",
+    "question" : "Number of Islands",
     "answer_link" : "https://discuss.geeksforgeeks.org/comment/4d325ce7b3404f094b9b7bd9b5129c33/"
 },
 
 {
-    "id" : "999"
-    "topic" : "Get to know about Algorithms"
-    "question" : "What is algorithm and why analysis of it is important"
+    "id" : "999",
+    "topic" : "Get to know about Algorithms",
+    "question" : "What is algorithm and why analysis of it is important",
     "answer_link" : " https://www.geeksforgeeks.org/what-is-algorithm-and-why-analysis-of-it-is-important/ "
-
-}
-
-    "topic" : "DSA - Sorting"
-    "question" : "Merge Intervals"
-    "answer_link" : " https://leetcode.com/submissions/detail/819350340/ "
-
 
 },
 {
-    "id" : "391"
-    "topic" : "DSA - Recursion"
-    "question" : "Lucky Numbers"
+    "topic" : "DSA - Sorting",
+    "question" : "Merge Intervals",
+    "answer_link" : " https://leetcode.com/submissions/detail/819350340/ "
+    
+},
+
+
+
+
+{
+    "id" : "391",
+    "topic" : "DSA - Recursion",
+    "question" : "Lucky Numbers",
     "answer_link" : " https://www.geeksforgeeks.org/lucky-numbers/ "
 
 
@@ -811,9 +816,9 @@
 },
 
 {
-    "id" : "391"
-    "topic" : "DSA - Array"
-    "question" : "Fitting The Array"
+    "id" : "391",
+    "topic" : "DSA - Array",
+    "question" : "Fitting The Array",
     "answer_link" : " https://practice.geeksforgeeks.org/problems/fitting-the-array1514/1 "
 },
 {
@@ -850,7 +855,7 @@
     "answer_link" : "https://ide.codingblocks.com/s/675470 "
 },
 
-},
+
 {
         "id": "396",
         "topic": "DSA_BinarySearchTree",
@@ -885,7 +890,7 @@
         "topic": "DSA - Subarray",
         "question": "Find maximum Product Subarray",
         "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
-    }
+    },
 
 
 
@@ -900,7 +905,12 @@
 },
 
 
-   
+   {
+    "id": "008",
+      "topic": "BackTracking",
+      "question": "N Queen Problem",
+      "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
+   }
 
-
+]
 
