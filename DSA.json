@@ -950,6 +950,14 @@
 },
 
 {
+
+      "id": "1011",
+      "topic": "Data Structure and Algorithms Interview Questions",
+      "question": "How do you find the largest and smallest number in an unsorted integer array?",
+      "answerLink": "https://www.java67.com/2014/02/how-to-find-largest-and-smallest-number-array-in-java.html"
+},
+
+
         "id""id": "1011",
         "topic": "DSA_Stack",
         "question": "Convert Infix to Postfix",
@@ -968,6 +976,7 @@
 
 },
     
+
 
 
    {
