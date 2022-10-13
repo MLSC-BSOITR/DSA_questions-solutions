@@ -889,7 +889,12 @@
 
 },
 
-
+{
+    "id": "371",
+    "topic": "Data Structures",
+    "question": "What operations can be performed on Queues?",
+    "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
+},
 
     {
         "id": "502",
