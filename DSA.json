@@ -905,6 +905,13 @@
       "answerLink": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
 },
 
+{
+        "id""id": "1011",
+        "topic": "DSA_Stack",
+        "question": "Convert Infix to Postfix",
+        "answerLink": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
+ }
+
 
    
 
