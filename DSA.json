@@ -951,6 +951,13 @@
 
 {
 
+	"id": "313",
+	"topic": "Djikstra's Algorithm",
+	"question": "Important Theoretical Questions on Djikstra's Algorithm",
+	"answerlink": "https://drive.google.com/file/d/1H0NHCf23flo9EtU7ckkFdPPpAKXLy5Pw/view?usp=sharing",
+}, 
+
+
       "id": "1011",
       "topic": "Data Structure and Algorithms Interview Questions",
       "question": "How do you find the largest and smallest number in an unsorted integer array?",
@@ -976,6 +983,7 @@
 
 },
     
+
 
 
 
