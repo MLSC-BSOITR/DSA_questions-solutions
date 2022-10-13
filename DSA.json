@@ -368,6 +368,8 @@
         "topic": "Data structures",
         "question": "How different from the array is the Linked List?",
         "answerLink": "https://www.monsterindia.com/"
+    },
+    {
 
         "id": "203",
 
@@ -377,6 +379,12 @@
 
         "answer_link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"
         
+    },
+    {
+        "id": "233",
+        "topic": "DSA - Backtracking",
+        "question": "Hamiltonian Circuit Problem : How to traverse a graph in such a way that each node is visited only once and returns at it's source.",
+        "answerLink": "https://www.javatpoint.com/hamiltonian-circuit-problems"
     },    
 
     {
