@@ -905,6 +905,14 @@
 },
 
 
+{
+    "id": "502",
+    "topic": "DSA - Subarray",
+    "question": "Find maximum Product Subarray",
+    "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
+},
+
+
     "topic": "Data Structures",
     "question": "What operations can be performed on Queues?",
     "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
@@ -926,6 +934,13 @@
 
 
 
+
+{
+    "id": "101010",
+    "topic": "DSA - Array",
+    "question": "Largest Perimeter Triangle",
+    "answer_link": "https://leetcode.com/problems/largest-perimeter-triangle/"
+},
 
 {
       "id": "1010",
