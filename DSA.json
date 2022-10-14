@@ -951,6 +951,13 @@
 },
 
 {
+    "id": "101012",
+    "topic": "DSA - Dynamic Programming",
+    "question": "Unique Paths",
+    "answer_link": "https://leetcode.com/problems/unique-paths/discuss/2703979/Easy-C%2B%2B-Code-oror-Runtime-%3A-0-ms-faster-than-100-oror-With-Explanations-By-comments-in-Code"
+},
+
+{
       "id": "1010",
       "topic": "All DSA Chapters",
       "question": "All Important DSA questions for cracking product based companies",
