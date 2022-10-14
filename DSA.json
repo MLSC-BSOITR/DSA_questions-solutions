@@ -942,6 +942,14 @@
     "answer_link": "https://leetcode.com/problems/largest-perimeter-triangle/"
 },
 
+
+{
+    "id": "101011",
+    "topic": "DSA - Linked List",
+    "question": "Delete the Middle Node of a Linked List",
+    "answer_link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/discuss/2667842/Easy-C%2B%2B-Code"
+},
+
 {
       "id": "1010",
       "topic": "All DSA Chapters",
@@ -977,5 +985,5 @@
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
    }
 
-]
+
 
