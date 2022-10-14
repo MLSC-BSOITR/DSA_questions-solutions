@@ -751,8 +751,6 @@
     "answer_link" : " https://leetcode.com/submissions/detail/797859252/ "
 },
 
-
-
 {
 
   "id":"391",
@@ -781,9 +779,6 @@
     "answer_link" : " https://leetcode.com/submissions/detail/819350340/ "
     
 },
-
-
-
 
 {
     "id" : "391",
@@ -840,12 +835,6 @@
     "answer_link":"https://www.javatpoint.com/garbage-collection-in-data-structure" 
 },
 
-
-
-
-
-
-
 {
         "id": "501",
         "topic": "Data Structures",
@@ -870,8 +859,6 @@
 
 
     },
-
- 
 
 {
     "id": "369",
@@ -912,7 +899,7 @@
     "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
 },
 
-
+{
     "topic": "Data Structures",
     "question": "What operations can be performed on Queues?",
     "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
@@ -930,10 +917,6 @@
         "question": "rotate a matrix by 90 deg. ",
         "answer_link": "https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/"
     }
-
-
-
-
 
 {
     "id": "101010",
@@ -957,24 +940,19 @@
 	"answerlink": "https://drive.google.com/file/d/1H0NHCf23flo9EtU7ckkFdPPpAKXLy5Pw/view?usp=sharing",
 }, 
 
-
+{
       "id": "1011",
       "topic": "Data Structure and Algorithms Interview Questions",
       "question": "How do you find the largest and smallest number in an unsorted integer array?",
       "answerLink": "https://www.java67.com/2014/02/how-to-find-largest-and-smallest-number-array-in-java.html"
 },
 
-
+{
         "id""id": "1011",
         "topic": "DSA_Stack",
         "question": "Convert Infix to Postfix",
         "answerLink": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
- }
-
-
-
-
-
+ },
 {
     "id":"1013",
     "topic":"Data Structures",
@@ -983,16 +961,19 @@
 
 },
     
-
-
-
-
    {
     "id": "008",
       "topic": "BackTracking",
       "question": "N Queen Problem",
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
-   }
+   },
+
+   {
+    "id": "972",
+    "topic": "Non Repeating Character",
+    "question": "Given a string S consisting of lowercase Latin Letters. Return the first non-repeating character in S. If there is no non-repeating character, return '$'",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&category[]=Hash&sortBy=submissions"
+},
 
 ]
 
