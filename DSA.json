@@ -992,6 +992,15 @@
       "topic": "BackTracking",
       "question": "N Queen Problem",
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
+
+   }
+ {
+    "id": "123",
+      "topic": "Array",
+      "question": "Set matrix zero",
+      "answerLink": "https://takeuforward.org/data-structure/set-matrix-zero/"
+   
+
    },
    {
       
@@ -1003,6 +1012,7 @@
     
     "answer_link":"https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
 }
+
 
 
 ]
