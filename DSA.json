@@ -1091,6 +1091,12 @@
     "question": "Longest Duplicate substring",
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
+ {
+    "id": "29200",
+    "topic": "Data structures",
+    "question": "Count Zeroes",
+    "answerLink": "https://leetcode.com/problems/count-zeroes/"
+  },
 	
 ]
 
