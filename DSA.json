@@ -1080,6 +1080,12 @@
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
 	
+{
+    "id": "1008",
+    "topic": "Data structures",
+    "question": "Happy Number",
+    "answerLink": "https://leetcode.com/problems/happy-number/"
+},
 ]
 
 
