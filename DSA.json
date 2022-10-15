@@ -1003,7 +1003,7 @@
     "id": "008",
       "topic": "BackTracking",
       "question": "N Queen Problem",
-      "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
+      "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"<<<<<<< main
    },
 
    {
@@ -1011,7 +1011,52 @@
     "topic": "DSA",
     "question": "Dijkstra Algorithm",
     "answerLink": "https://www.scaler.com/topics/data-structures/dijkstra-algorithm/"
-   }
 
+
+
+   }
+ {
+    "id": "123",
+      "topic": "Array",
+      "question": "Set matrix zero",
+      "answerLink": "https://takeuforward.org/data-structure/set-matrix-zero/"
+   
+
+   },
+   {
+      
+    "id":"1412",
+    
+    "topic":"DSA - Sorting",
+    
+    "question":" What is the merge sort? How does it work?",
+    
+    "answer_link":"https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
+}
+
+
+
+  
+  {
+    "id": "1020",
+    "topic": "BackTracking",
+    "question": "Sum of subset Problem",
+    "answerLink": "https://www.geeksforgeeks.org/subset-sum-backtracking-4/"
+  },
+
+  {
+    "id": "1021",
+    "topic": "Divide and Conquer",
+    "question": "Convex hull Problem",
+    "answerLink": "https://www.geeksforgeeks.org/convex-hull-using-divide-and-conquer-algorithm/"
+  },
+
+  {
+    "id": "1022",
+    "topic": "Data structures",
+    "question": "Longest Duplicate substring",
+    "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
+  },
+	
 ]
 
