@@ -954,6 +954,21 @@
     "answer_link": "https://leetcode.com/problems/largest-perimeter-triangle/"
 },
 
+
+{
+    "id": "101011",
+    "topic": "DSA - Linked List",
+    "question": "Delete the Middle Node of a Linked List",
+    "answer_link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/discuss/2667842/Easy-C%2B%2B-Code"
+},
+
+{
+    "id": "101012",
+    "topic": "DSA - Dynamic Programming",
+    "question": "Unique Paths",
+    "answer_link": "https://leetcode.com/problems/unique-paths/discuss/2703979/Easy-C%2B%2B-Code-oror-Runtime-%3A-0-ms-faster-than-100-oror-With-Explanations-By-comments-in-Code"
+},
+
 {
       "id": "1010",
       "topic": "All DSA Chapters",
@@ -1036,6 +1051,7 @@
 
 
 
+
   
   {
     "id": "1020",
@@ -1059,4 +1075,5 @@
   },
 	
 ]
+
 
