@@ -982,17 +982,22 @@
     "answer_link":"https://www.geeksforgeeks.org/static-data-structure-vs-dynamic-data-structure/?ref=lbp"
 
 },
-    
-
-
-
+   
 
    {
     "id": "008",
       "topic": "BackTracking",
       "question": "N Queen Problem",
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
+   },
+
+   {
+    "id": "21451",
+      "topic": "Dynamic Programming",
+      "question": "Queens Attack II",
+      "answerLink": "https://takeuforward.org/data-structure/queens-attack-II/"
    }
+
 
 ]
 
