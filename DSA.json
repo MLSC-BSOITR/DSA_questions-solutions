@@ -1091,6 +1091,13 @@
     "question": "Longest Duplicate substring",
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
+
+  {
+    "id": "1025",
+    "topic": "Algorithm",
+    "question": "Sieve of Eratosthenes",
+    "answerLink": "https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html"
+  },
 	
 ]
 
