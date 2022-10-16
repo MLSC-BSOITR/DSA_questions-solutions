@@ -1091,6 +1091,12 @@
     "question": "Longest Duplicate substring",
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
+  {
+    "id": "1023",
+    "topic": "Data structures",
+    "question": "Median of Two Sorted Arrays",
+    "answerLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/813867929/"
+  },
 	
 ]
 
