@@ -1,13 +1,12 @@
-
-<-- DO NOT EDIT THIS SECTION -->
+//<-- DO NOT EDIT THIS SECTION -->"
 [
     {
-        "id""id": "1",
+        "id": "1",
         "topic": "DSA_array",
         "question": "Find pair with given sum in the array",
         "answerLink": "https://www.techiedelight.com/find-pair-with-given-sum-array/"
     },
-    // You can contribute below as mentioned above
+     "You can contribute below as mentioned above"
     {
         "id": "2",
         "topic": "Data Structures",
@@ -50,12 +49,12 @@
         "topic": "Recursion",
         "question": "Swapping pairs make sum equal",
         "answerLink": "https://www.geeksforgeeks.org/find-a-pair-swapping-which-makes-sum-of-two-arrays-same/"
-
+    },
+    {
         "id": "147",
         "topic": "DSA - Stacks",
         "question": "Implement a queue using instances of stack data structure and operations on them",
         "answerLink": "https://www.geeksforgeeks.org/queue-using-stacks/"
-
     },
     {
         "id": "102",
@@ -67,7 +66,7 @@
         "id": "5",
         "topic": "DSA_array",
         "question": "Maximum Product Subarray Problem",
-        "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array""question": "Maximum Product Subarray Problem",
+        "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array",
         "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     },
     {
@@ -76,14 +75,13 @@
         "question": "Move all negative elements to end in order with extra space allowed",
         "answerLink": "https://www.geeksforgeeks.org/move-ve-elements-end-order-extra-space-allowed/"
     },
-    ,
     {
         "id": "7611",
         "topic": "DSA_Tree",
         "question": "Count the leaf node of a tree",
         "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
         "answerLink": "https://www.programiz.com/java-programming/examples/count-leaf-nodes-of-tree"
-    }
+    },
     {
         "id": "150",
         "topic": "DSA_Linkedlist",
@@ -112,7 +110,7 @@
         "id": "11",
         "topic": "Data Structure",
         "question": "How are the elements of a 2D array stored in the memory?",
-        "answerLink": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
+        "answerLink": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article",
         "answerLink": "https://eduladder.com/viewquestions/25264/How-are-the-elements-of-a-2D-array-are-stored-in-the-memory"
     },
     {
@@ -162,7 +160,7 @@
         "topic": "DSA Linear Data Structure",
         "question": "What is linear data structure?",
         "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
-    }
+    },
     
   {
         "id": "99",
@@ -198,29 +196,31 @@
         "id": "39",
         "topic": "Cumulative Sum",
         "question": "The cumulative sum of an array at index i is defined as the sum of all elements of the array from index 0 to index i",
-        "answerLink": "https://workat.tech/problem-solving/practice/cumulative-sum"{
+        "answerLink": "https://workat.tech/problem-solving/practice/cumulative-sum"
+    },
+    {
             "id": "49",
             "topic": "Merge k Sorted Lists",
             "question": "https://leetcode.com/problems/merge-k-sorted-lists/",
             "answerLink": "https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/"
-        },
+    },
         {
             "id": "07",
             "topic": "DSA - Array",
             "question": "How linked list diffrent from array",
             "answer_link": "hhttps://prepinsta.com/interview-preparation/technical-interview-questions/dsa-interview-questions-and-answers-for-freshers/"
-        }
-    },
+        },
     {
         "topic": "Data Structure",
         "question": "How is Data Structure helpful",
-        "answerLink": "http://www.mygreatlearning.com"{
+        "answerLink": "http://www.mygreatlearning.com"
+    },
+        {
             "id": "123",
             "topic": "DSA",
             "question": "What is doubly linked list",
             "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/doubly_linked_list_algorithm.htm"
         },
-    }
 
  {
         "id": "1236",
@@ -239,13 +239,13 @@
         "topic": "sorting in DSA",
         "question": "Merge sort ",
         "answerLink": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
-    }
+    },
 
 {
         "id": "119",
         "topic": "DSA",
         "question": "why dsa is important",
-        "answerLink": "https://www.programiz.com/dsa/why-algorithms#:~:text=Data%20structures%20and%20algorithms%20(DSA,the%20best%20of%20various%20choices.",
+        "answerLink": "https://www.programiz.com/dsa/why-algorithms#:~:text=Data%20structures%20and%20algorithms%20(DSA,the%20best%20of%20various%20choices."
     },
     {
         "id": "3241",
@@ -368,6 +368,8 @@
         "topic": "Data structures",
         "question": "How different from the array is the Linked List?",
         "answerLink": "https://www.monsterindia.com/"
+    },
+    {
 
         "id": "203",
 
@@ -377,6 +379,12 @@
 
         "answer_link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"
         
+    },
+    {
+        "id": "233",
+        "topic": "DSA - Backtracking",
+        "question": "Hamiltonian Circuit Problem : How to traverse a graph in such a way that each node is visited only once and returns at it's source.",
+        "answerLink": "https://www.javatpoint.com/hamiltonian-circuit-problems"
     },    
 
     {
@@ -441,11 +449,15 @@
         "question": "Count the triplets",
         "answer_link": "https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1"
 
+
+    },
+    {
         "id":"388",
         "topic":"DSA - Iterative DFS",
         "question":"Iterative Depth First Traversal of Graph",
         "answer_link":"https://www.geeksforgeeks.org/iterative-depth-first-traversal/"
     },
+
     {
     "id":"389",
   "topic":"DSA - Array",
@@ -453,9 +465,9 @@
   "answer_link":"https://www.techiedelight.com/?id=87v3"
     },
     {
-    "id" : "390"
-    "topic" : "DSA - Tree"
-    "question" : "Add One Row to Tree"
+    "id" : "390",
+    "topic" : "DSA - Tree",
+    "question" : "Add One Row to Tree",
     "answer_link" : "https://leetcode.com/problems/add-one-row-to-tree/submissions/815879905/"
 
     },
@@ -525,11 +537,13 @@
         "id": "203",
         "topic": "DSA - Strings",
         "question": "Minimum characters to be added at front to make string palindrome",
-        "answer_link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"{
+        "answer_link": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"},
+        {
             "id": "201",
             "topic": "DSA - Red Black Trees",
             "question": "Complete Explanation and Implementation of RBT",
-            "answer_link": "https://www.happycoders.eu/algorithms/red-black-tree-java/"{
+            "answer_link": "https://www.happycoders.eu/algorithms/red-black-tree-java/"},
+            {
                 "id": "4478",
                 "topic": "DSA - Stack using SLL",
                 "question": "Implement stack operations using singly linkedlist in C",
@@ -596,7 +610,10 @@
                 "answer_link": "https://www.techiedelight.com/?id=87v3"
             },
             {
-                "id": "390""topic": "DSA - Tree""question": "Add One Row to Tree""answer_link": "https://leetcode.com/problems/add-one-row-to-tree/submissions/815879905/"
+                "id": "390",
+                "topic": "DSA - Tree",
+                "question": "Add One Row to Tree",
+                "answer_link": "https://leetcode.com/problems/add-one-row-to-tree/submissions/815879905/"
             },
             {
                 "id": "391",
@@ -633,19 +650,19 @@
                 "topic": "DSA - Array",
                 "question": "Bell Numbers (Number of ways to Partition a Set)",
                 "answer_link": "https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/?ref=lbp"
-            }
+            },
         
 
 {
-    "id" : "395"
-    "topic" : "closest prime"
-    "question" : "Help ishaan GFG"
+    "id" : "395",
+    "topic" : "closest prime",
+    "question" : "Help ishaan GFG",
     "answer_link" : "https://practice.geeksforgeeks.org/problems/help-ishaan5837/1"
     },
 {
-    "id" : "392"
-    "topic" : "DSA - Array"
-    "question" : "Subset sum equal to k"
+    "id" : "392",
+    "topic" : "DSA - Array",
+    "question" : "Subset sum equal to k",
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
    },
 {
@@ -653,8 +670,6 @@
     "topic" : "DSA - Sliding Window",
     "question" : "Reverse Integer",
     "answer_link" : "https://leetcode.com/problems/reverse-integer/submissions/778342803/"
-    },
-
 },
 {
     "id" : "9461",
@@ -674,7 +689,7 @@
 },   
 
 {
-    "id" : "393"
+    "id" : "393",
     "topic" : "DSA - Recurssion",
     "question" : "Nth Fibbonaci Numbers",
     "answer_link" : "https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/"
@@ -712,7 +727,7 @@
     "question" : "Tower of Hanoi",
     "answer_link" : "https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/"
 
-}
+},
 
 
 
@@ -751,14 +766,13 @@
     "answer_link" : " https://leetcode.com/submissions/detail/797859252/ "
 },
 
-
-
 {
 
   "id":"391",
-  "topic":"Dynamic Programming",
+  "topic": "Dynamic Programming",
   "question":"Given an integer numRows, return the first numRows of Pascal's triangle.",
   "answer_link":"https://leetcode.com/submissions/detail/805009380/"
+},
 
 
 {
@@ -781,9 +795,6 @@
     "answer_link" : " https://leetcode.com/submissions/detail/819350340/ "
     
 },
-
-
-
 
 {
     "id" : "391",
@@ -840,18 +851,12 @@
     "answer_link":"https://www.javatpoint.com/garbage-collection-in-data-structure" 
 },
 
-
-
-
-
-
-
 {
         "id": "501",
         "topic": "Data Structures",
         "question": "Alice and Marks",
         "answerLink": "https://www.codechef.com/viewsolution/74868773"
-    }
+    },
 
 
 {
@@ -870,8 +875,6 @@
 
 
     },
-
- 
 
 {
     "id": "369",
@@ -912,6 +915,10 @@
     "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
 },
 
+{
+
+
+    "id": "503",
 
     "topic": "Data Structures",
     "question": "What operations can be performed on Queues?",
@@ -929,17 +936,28 @@
         "topic": "DSA -Inplace rotate square matrix by 90 degrees",
         "question": "rotate a matrix by 90 deg. ",
         "answer_link": "https://www.geeksforgeeks.org/inplace-rotate-square-matrix-by-90-degrees/"
-    }
-
-
-
-
+    },
 
 {
     "id": "101010",
     "topic": "DSA - Array",
     "question": "Largest Perimeter Triangle",
     "answer_link": "https://leetcode.com/problems/largest-perimeter-triangle/"
+},
+
+
+{
+    "id": "101011",
+    "topic": "DSA - Linked List",
+    "question": "Delete the Middle Node of a Linked List",
+    "answer_link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/discuss/2667842/Easy-C%2B%2B-Code"
+},
+
+{
+    "id": "101012",
+    "topic": "DSA - Dynamic Programming",
+    "question": "Unique Paths",
+    "answer_link": "https://leetcode.com/problems/unique-paths/discuss/2703979/Easy-C%2B%2B-Code-oror-Runtime-%3A-0-ms-faster-than-100-oror-With-Explanations-By-comments-in-Code"
 },
 
 {
@@ -954,22 +972,27 @@
 	"id": "313",
 	"topic": "Djikstra's Algorithm",
 	"question": "Important Theoretical Questions on Djikstra's Algorithm",
-	"answerlink": "https://drive.google.com/file/d/1H0NHCf23flo9EtU7ckkFdPPpAKXLy5Pw/view?usp=sharing",
+	"answerlink": "https://drive.google.com/file/d/1H0NHCf23flo9EtU7ckkFdPPpAKXLy5Pw/view?usp=sharing"
 }, 
 
-
+{
       "id": "1011",
       "topic": "Data Structure and Algorithms Interview Questions",
       "question": "How do you find the largest and smallest number in an unsorted integer array?",
       "answerLink": "https://www.java67.com/2014/02/how-to-find-largest-and-smallest-number-array-in-java.html"
 },
 
+{
 
         "id""id": "1011",
+
+        "id": "1011",
+
         "topic": "DSA_Stack",
         "question": "Convert Infix to Postfix",
         "answerLink": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
- }
+ },
+
 
 
 
@@ -982,15 +1005,12 @@
     "answer_link":"https://www.geeksforgeeks.org/static-data-structure-vs-dynamic-data-structure/?ref=lbp"
 
 },
-    
-
-
-
 
    {
     "id": "008",
       "topic": "BackTracking",
       "question": "N Queen Problem",
+
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
    },
 
@@ -1000,6 +1020,129 @@
       "question": "Middle ELement Of Linkedlist",
       "answerLink": "https://takeuforward.org/linked-list/middle-element-of-linkedlist"
    },
+   {
+    "id": "21451",
+      "topic": "Dynamic Programming",
+      "question": "Queens Attack II",
+      "answerLink": "https://takeuforward.org/data-structure/queens-attack-II/"
+},
+   
+
+{ "id":"29132",
+  
+    "topic":"DSA for Python",
+  
+    "question":"How to create dictionary in python?",
+  
+    "answer_link":"https://www.pythondatastructure.com/how-to-create-dictionary-in-python/"
+  
+  },
+
+
+ 
+   {
+    "id": "972",
+    "topic": "Non Repeating Character",
+    "question": "Given a string S consisting of lowercase Latin Letters. Return the first non-repeating character in S. If there is no non-repeating character, return '$'",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&category[]=Hash&sortBy=submissions"
+},
+{
+	"id": "20032",
+      "topic": "Dynamic Programing",
+      "question": "Matrix chain multiplication",
+      "answerLink": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+}
+
+      "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"<<<<<<< main
+   },
+
+   {
+    "id": "009",
+    "topic": "DSA",
+    "question": "Dijkstra Algorithm",
+    "answerLink": "https://www.scaler.com/topics/data-structures/dijkstra-algorithm/"
+    
+   }
+ {
+    "id": "123",
+      "topic": "Array",
+      "question": "Set matrix zero",
+      "answerLink": "https://takeuforward.org/data-structure/set-matrix-zero/"
+   
+   },
+   {
+      
+    "id":"1412",
+    
+    "topic":"DSA - Sorting",
+    
+    "question":" What is the merge sort? How does it work?",
+    
+    "answer_link":"https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
+}
+
+{
+    "id": "1020",
+    "topic": "BackTracking",
+    "question": "Sum of subset Problem",
+    "answerLink": "https://www.geeksforgeeks.org/subset-sum-backtracking-4/"
+  },
+
+  {
+    "id": "1021",
+    "topic": "Divide and Conquer",
+    "question": "Convex hull Problem",
+    "answerLink": "https://www.geeksforgeeks.org/convex-hull-using-divide-and-conquer-algorithm/"
+  },
+
+  {
+    "id": "1022",
+    "topic": "Data structures",
+    "question": "Longest Duplicate substring",
+    "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
+  },
+
+  {
+
+    "id": "1025",
+    "topic": "Algorithm",
+    "question": "Sieve of Eratosthenes",
+    "answerLink": "https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html"
+  },
+
+    "id": "1023",
+    "topic": "Data structures",
+    "question": "Median of Two Sorted Arrays",
+    "answerLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/813867929/"
+  },
+
+
+ {
+    "id": "29200",
+    "topic": "Data structures",
+    "question": "Count Zeroes",
+    "answerLink": "https://leetcode.com/problems/count-zeroes/"
+  },
+
+
+{
+    "id": "1023",
+    "topic": "DSA",
+    "question": "Hashing",
+    "answerLink": "https://www.geeksforgeeks.org/hashing-data-structure/"
+  },	
+
+
+
+
+	
+{
+    "id": "1008",
+    "topic": "Data structures",
+    "question": "Happy Number",
+    "answerLink": "https://leetcode.com/problems/happy-number/"
+},
 
 ]
+
 
