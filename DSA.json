@@ -1091,6 +1091,14 @@
     "question": "Longest Duplicate substring",
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
+
+{
+    "id": "1023",
+    "topic": "DSA",
+    "question": "Hashing",
+    "answerLink": "https://www.geeksforgeeks.org/hashing-data-structure/"
+  },	
+
 	
 {
     "id": "1008",
@@ -1098,6 +1106,7 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+
 ]
 
 
