@@ -992,7 +992,14 @@
       "topic": "BackTracking",
       "question": "N Queen Problem",
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
-   }
+   },
+
+   {
+    "id": "8090",
+      "topic": "Linklist",
+      "question": "Middle ELement Of Linkedlist",
+      "answerLink": "https://takeuforward.org/linked-list/middle-element-of-linkedlist"
+   },
 
 ]
 
