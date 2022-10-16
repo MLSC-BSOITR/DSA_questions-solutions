@@ -1013,6 +1013,18 @@
 
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
    },
+   
+
+{ "id":"29132",
+  
+    "topic":"DSA for Python",
+  
+    "question":"How to create dictionary in python?",
+  
+    "answer_link":"https://www.pythondatastructure.com/how-to-create-dictionary-in-python/"
+  
+  },
+
 
  
    {
@@ -1079,12 +1091,22 @@
     "question": "Longest Duplicate substring",
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
+
 {
     "id": "1023",
     "topic": "DSA",
     "question": "Hashing",
     "answerLink": "https://www.geeksforgeeks.org/hashing-data-structure/"
   },	
+
+	
+{
+    "id": "1008",
+    "topic": "Data structures",
+    "question": "Happy Number",
+    "answerLink": "https://leetcode.com/problems/happy-number/"
+},
+
 ]
 
 
