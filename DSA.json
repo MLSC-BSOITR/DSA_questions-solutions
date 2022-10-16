@@ -1005,7 +1005,7 @@
     "answer_link":"https://www.geeksforgeeks.org/static-data-structure-vs-dynamic-data-structure/?ref=lbp"
 
 },
-    
+
    {
     "id": "008",
       "topic": "BackTracking",
@@ -1013,6 +1013,12 @@
 
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
    },
+   {
+    "id": "21451",
+      "topic": "Dynamic Programming",
+      "question": "Queens Attack II",
+      "answerLink": "https://takeuforward.org/data-structure/queens-attack-II/"
+},
    
 
 { "id":"29132",
@@ -1048,9 +1054,7 @@
     "topic": "DSA",
     "question": "Dijkstra Algorithm",
     "answerLink": "https://www.scaler.com/topics/data-structures/dijkstra-algorithm/"
-
-
-
+    
    }
  {
     "id": "123",
@@ -1069,7 +1073,6 @@
     
     "answer_link":"https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
 }
-
 
 {
     "id": "1020",
@@ -1093,12 +1096,46 @@
   },
 
   {
+
     "id": "1025",
     "topic": "Algorithm",
     "question": "Sieve of Eratosthenes",
     "answerLink": "https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html"
   },
+
+    "id": "1023",
+    "topic": "Data structures",
+    "question": "Median of Two Sorted Arrays",
+    "answerLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/813867929/"
+  },
+
+
+ {
+    "id": "29200",
+    "topic": "Data structures",
+    "question": "Count Zeroes",
+    "answerLink": "https://leetcode.com/problems/count-zeroes/"
+  },
+
+
+{
+    "id": "1023",
+    "topic": "DSA",
+    "question": "Hashing",
+    "answerLink": "https://www.geeksforgeeks.org/hashing-data-structure/"
+  },	
+
+
+
+
 	
+{
+    "id": "1008",
+    "topic": "Data structures",
+    "question": "Happy Number",
+    "answerLink": "https://leetcode.com/problems/happy-number/"
+},
+
 ]
 
 
