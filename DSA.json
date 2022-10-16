@@ -1092,12 +1092,21 @@
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
 
+ {
+    "id": "29200",
+    "topic": "Data structures",
+    "question": "Count Zeroes",
+    "answerLink": "https://leetcode.com/problems/count-zeroes/"
+  },
+
+
 {
     "id": "1023",
     "topic": "DSA",
     "question": "Hashing",
     "answerLink": "https://www.geeksforgeeks.org/hashing-data-structure/"
   },	
+
 
 	
 {
