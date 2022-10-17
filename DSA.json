@@ -1135,6 +1135,13 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+{
+        "id": "10008",
+        "topic": "sorting in DSA",
+        "question": "Merge sort ",
+        "answerLink": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
+
 
 ]
 
