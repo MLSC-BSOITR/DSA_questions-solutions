@@ -1135,7 +1135,12 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
-
+{
+    "id": "1012",
+    "topic": "Data structures",
+    "question": "Jump Game",
+    "answerLink": "https://leetcode.com/problems/jump-game/"
+},
 ]
 
 
