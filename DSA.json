@@ -1135,6 +1135,12 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+{
+    "id": "144468",
+    "topic": "Data structures",
+    "question": "Implementing Dijkstra Algorithm",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+},
 
 ]
 
