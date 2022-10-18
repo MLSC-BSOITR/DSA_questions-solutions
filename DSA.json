@@ -1136,6 +1136,12 @@
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
 
+{
+    "id": "303",
+    "topic": "DSA - Trees",
+    "question": "Binary Tree Pruning",
+    "answerLink": "https://leetcode.com/submissions/detail/793029554/"
+}
 ]
 
 
