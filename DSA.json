@@ -1135,7 +1135,23 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+{
+     "id":"1009",
+     "topic": "DSA-Array",
+     "question": "Shuffle an array using Fisher–Yates shuffle algorithm",
+     "answerLink": "http://www.techiedelight.com/shuffle-given-array-elements-fisher-yates-shuffle/"
+},
+}
 
-]
+
+
+	
+
+
+
+
+	
+
+
 
 
