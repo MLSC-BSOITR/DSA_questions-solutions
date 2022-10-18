@@ -1136,6 +1136,12 @@
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
 
+{
+    "id": "1009",
+    "topic": "Dynammic Programming",
+    "question": "Minimum Difficulty of a Job Schedule",
+    "answerLink": "https://leetcode.com/submissions/detail/823524290/"
+}
 ]
 
 
