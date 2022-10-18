@@ -1135,6 +1135,20 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+{
+    "id": "1024",
+    "topic": "Data structures",
+    "question": "What is Euclid's GCD Algorithm.",
+    "answerLink": "https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/"
+},
+{
+    "id": "1025",
+    "topic": "Data structures",
+    "question": "Greedy Algorithms.",
+    "answerLink": "https://www.geeksforgeeks.org/greedy-algorithms/"
+},
+
+
 
 ]
 
