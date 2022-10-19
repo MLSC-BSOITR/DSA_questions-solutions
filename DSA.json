@@ -1079,6 +1079,12 @@
     "question": "Longest Duplicate substring",
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
+  {
+    "id": "1023",
+    "topic": "DSA - Arrays",
+    "question": "W. A. P. to Split the array and add the first part to the end",
+    "answerlink":"https://www.geeksforgeeks.org/split-array-add-first-part-end/"
+  },
 	
 ]
 
