@@ -1136,6 +1136,12 @@
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
 
+{
+    "id": "1140",
+    "topic": "String Pattern Matching",
+    "question": "Using KMP Algorithm",
+    "answerLink": "https://www.scaler.com/topics/data-structures/kmp-algorithm/"
+},
 ]
 
 
