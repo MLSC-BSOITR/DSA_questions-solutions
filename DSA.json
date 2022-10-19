@@ -1135,6 +1135,13 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+{
+    "id": "29",
+    "topic": "Data structures & Algorithms",
+    "question": "Cyclic Components",
+    "answerLink": "https://codeforces.com/problemset/problem/977/E"
+},
+
 
 ]
 
