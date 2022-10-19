@@ -1135,6 +1135,12 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+{
+    "id": "1009",
+    "topic": "Data structures",
+    "question": "Quickselect Algorithm",
+    "answerLink": "https://www.techiedelight.com/quickselect-algorithm/"
+},
 
 ]
 
