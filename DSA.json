@@ -873,6 +873,15 @@
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
 
+    },
+{
+        "id": "397",
+        "topic": "DSA_String",
+        "question": "Count and Say",
+        "answerLink": "https://leetcode.com/submissions/detail/824987631/"
+    }
+
+
 
     },
 
