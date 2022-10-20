@@ -1140,6 +1140,12 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+ {
+        "id": "1009",
+        "topic": "DSA - Subarray",
+        "question": "Find maximum Product Subarray",
+        "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
+    },
 
 {
     "id": "1024",
