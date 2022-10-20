@@ -1142,6 +1142,13 @@
 },
 {
 
+    "id": "144468",
+    "topic": "Data structures",
+    "question": "Implementing Dijkstra Algorithm",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+},
+
+
     "id": "1009",
     "topic": "Two Pointers",
     "question": "Sort Colors",
@@ -1195,6 +1202,7 @@
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
   }
+
 
 
 ]
