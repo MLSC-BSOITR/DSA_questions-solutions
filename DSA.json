@@ -873,6 +873,15 @@
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
 
+    },
+{
+        "id": "397",
+        "topic": "DSA_String",
+        "question": "Count and Say",
+        "answerLink": "https://leetcode.com/submissions/detail/824987631/"
+    }
+
+
 
     },
 
@@ -1126,7 +1135,12 @@
   },	
 
 
-
+{
+        "id": "1045",
+        "topic": "Data Structures",
+        "question": "What is shell sort?",
+        "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
+    },
 
 	
 {
@@ -1150,6 +1164,80 @@
 
 
 
+
+    "id": "1012",
+    "topic": "Data structures",
+    "question": "Jump Game",
+    "answerLink": "https://leetcode.com/problems/jump-game/"
+},
+
+
+    "id": "144468",
+    "topic": "Data structures",
+    "question": "Implementing Dijkstra Algorithm",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+},
+
+
+    "id": "1009",
+    "topic": "Two Pointers",
+    "question": "Sort Colors",
+    "answerLink": "https://leetcode.com/submissions/detail/823737267/"
+}
+{
+
+     "id":"1009",
+     "topic": "DSA-Array",
+     "question": "Shuffle an array using Fisher–Yates shuffle algorithm",
+     "answerLink": "http://www.techiedelight.com/shuffle-given-array-elements-fisher-yates-shuffle/"
+},
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+{
+
+    "id": "10941",
+    "topic": "DSA",
+    "question": "Replace every element with the least greater element on its right",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1"
+},
+
+        "id": "10008",
+        "topic": "sorting in DSA",
+        "question": "Merge sort ",
+        "answerLink": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
+
+
+ {
+        "id": "1009",
+        "topic": "DSA - Subarray",
+        "question": "Find maximum Product Subarray",
+        "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
+    },
+
+{
+    "id": "1024",
+    "topic": "DSA",
+    "question": "Zigzag Conversion",
+    "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
+  }
+
+
+
+
+
 ]
+
 
 
