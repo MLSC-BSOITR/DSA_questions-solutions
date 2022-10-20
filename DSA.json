@@ -1166,6 +1166,14 @@
 },
 {
 
+    "id": "29",
+    "topic": "Data structures & Algorithms",
+    "question": "Cyclic Components",
+    "answerLink": "https://codeforces.com/problemset/problem/977/E"
+},
+
+
+
     "id": "1009",
     "topic": "Data structures",
     "question": "Quickselect Algorithm",
@@ -1281,6 +1289,7 @@
     "question": "Binary Tree Pruning",
     "answerLink": "https://leetcode.com/submissions/detail/793029554/"
 }
+
 
 
 ]
