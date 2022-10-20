@@ -1260,6 +1260,12 @@
     "answerLink": "https://youtu.be/GS9TyovoU4c"
 },
 
+{
+    "id": "303",
+    "topic": "DSA - Trees",
+    "question": "Binary Tree Pruning",
+    "answerLink": "https://leetcode.com/submissions/detail/793029554/"
+}
 ]
 
 
