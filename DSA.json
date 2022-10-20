@@ -1165,6 +1165,13 @@
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
 {
+
+    "id": "1009",
+    "topic": "Data structures",
+    "question": "Quickselect Algorithm",
+    "answerLink": "https://www.techiedelight.com/quickselect-algorithm/"
+},
+
     "id": "1024",
     "topic": "Data structures",
     "question": "What is Euclid's GCD Algorithm.",
@@ -1274,6 +1281,7 @@
     "question": "Binary Tree Pruning",
     "answerLink": "https://leetcode.com/submissions/detail/793029554/"
 }
+
 
 ]
 
