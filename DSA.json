@@ -1288,6 +1288,13 @@
     "topic": "DSA - Trees",
     "question": "Binary Tree Pruning",
     "answerLink": "https://leetcode.com/submissions/detail/793029554/"
+},
+
+{
+    "id": "304",
+    "topic": "DSA",
+    "question": "Remove Nth Node From End of List",
+    "answerLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/"
 }
 
 
