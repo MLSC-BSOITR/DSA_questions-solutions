@@ -1140,6 +1140,15 @@
     "question": "Happy Number",
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
+
+{
+        "id": "10008",
+        "topic": "sorting in DSA",
+        "question": "Merge sort ",
+        "answerLink": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
+
+
  {
         "id": "1009",
         "topic": "DSA - Subarray",
@@ -1152,7 +1161,8 @@
     "topic": "DSA",
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
-  },	
+  }
+
 
 
 ]
