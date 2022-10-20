@@ -1142,6 +1142,13 @@
 },
 
 {
+
+    "id": "10941",
+    "topic": "DSA",
+    "question": "Replace every element with the least greater element on its right",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1"
+},
+
         "id": "10008",
         "topic": "sorting in DSA",
         "question": "Merge sort ",
@@ -1162,6 +1169,7 @@
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
   }
+
 
 
 
