@@ -1288,6 +1288,13 @@
     "topic": "DSA - Trees",
     "question": "Binary Tree Pruning",
     "answerLink": "https://leetcode.com/submissions/detail/793029554/"
+},
+
+{
+    "id": "3978",
+    "topic": "Backtracking",
+    "question": "Knight Tour Problem",
+    "answerLink": "https://www.techiedelight.com/?problem=KnightTourProblem"
 }
 
 
