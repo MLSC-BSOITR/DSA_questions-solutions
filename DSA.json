@@ -1142,6 +1142,13 @@
 },
 {
 
+    "id": "1012",
+    "topic": "Data structures",
+    "question": "Jump Game",
+    "answerLink": "https://leetcode.com/problems/jump-game/"
+},
+
+
     "id": "144468",
     "topic": "Data structures",
     "question": "Implementing Dijkstra Algorithm",
@@ -1202,6 +1209,7 @@
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
   }
+
 
 
 
