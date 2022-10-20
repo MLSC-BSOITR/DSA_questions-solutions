@@ -1105,6 +1105,14 @@
   },
 
   {
+    "id": "1023",
+    "topic": "DSA - Arrays",
+    "question": "W. A. P. to Split the array and add the first part to the end",
+    "answerlink":"https://www.geeksforgeeks.org/split-array-add-first-part-end/"
+  },
+
+
+  {
 
     "id": "1025",
     "topic": "Algorithm",
@@ -1191,6 +1199,7 @@
      "question": "Shuffle an array using Fisher–Yates shuffle algorithm",
      "answerLink": "http://www.techiedelight.com/shuffle-given-array-elements-fisher-yates-shuffle/"
 },
+
 
 
 
