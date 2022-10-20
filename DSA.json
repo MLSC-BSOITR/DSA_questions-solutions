@@ -1141,6 +1141,13 @@
     "question": "Hashing",
     "answerLink": "https://www.geeksforgeeks.org/hashing-data-structure/"
   },	
+  
+{
+    "id": "1024",
+    "topic": "DSA",
+    "question": "Letter Combinations of a Phone Number",
+    "answerLink": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/"
+  },
 
 
 {
