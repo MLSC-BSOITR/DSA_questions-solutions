@@ -254,6 +254,12 @@
         "answerLink": "https://www.techiedelight.com/find-pair-with-given-sum-array/"
     },
     {
+        "id": "22667",
+        "topic": "DSA Binary Trees",
+        "question": "Level Order Binary Tree Traversal",
+        "answerLink": "https://www.geeksforgeeks.org/level-order-tree-traversal/"
+    },
+    {
         "id": "34",
         "topic": "linked list",
         "question": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category[]=Linked%20List&sortBy=submissions",
