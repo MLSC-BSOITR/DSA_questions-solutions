@@ -1150,6 +1150,20 @@
     "answerLink": "https://leetcode.com/problems/happy-number/"
 },
 {
+    "id": "1024",
+    "topic": "Data structures",
+    "question": "What is Euclid's GCD Algorithm.",
+    "answerLink": "https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/"
+},
+{
+    "id": "1025",
+    "topic": "Data structures",
+    "question": "Greedy Algorithms.",
+    "answerLink": "https://www.geeksforgeeks.org/greedy-algorithms/"
+},
+
+
+
 
     "id": "1012",
     "topic": "Data structures",
@@ -1218,6 +1232,7 @@
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
   }
+
 
 
 
