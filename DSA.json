@@ -1126,7 +1126,12 @@
   },	
 
 
-
+{
+        "id": "1045",
+        "topic": "Data Structures",
+        "question": "What is shell sort?",
+        "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
+    },
 
 	
 {
@@ -1152,6 +1157,41 @@
 
 	
 
+
+
+{
+
+    "id": "10941",
+    "topic": "DSA",
+    "question": "Replace every element with the least greater element on its right",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1"
+},
+
+        "id": "10008",
+        "topic": "sorting in DSA",
+        "question": "Merge sort ",
+        "answerLink": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
+
+
+ {
+        "id": "1009",
+        "topic": "DSA - Subarray",
+        "question": "Find maximum Product Subarray",
+        "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
+    },
+
+{
+    "id": "1024",
+    "topic": "DSA",
+    "question": "Zigzag Conversion",
+    "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
+  }
+
+
+
+
+]
 
 
 
