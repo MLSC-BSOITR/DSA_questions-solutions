@@ -1288,6 +1288,13 @@
     "topic": "DSA - Trees",
     "question": "Binary Tree Pruning",
     "answerLink": "https://leetcode.com/submissions/detail/793029554/"
+},
+
+{
+    "id": "304",
+    "topic": "sorting",
+    "question": "Insertion Sort in Python",
+    "answerLink": "https://www.javatpoint.com/insertion-sort-in-python"
 }
 
 
