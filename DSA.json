@@ -1209,6 +1209,14 @@
 
 
 
+{
+    "id": "1140",
+    "topic": "String Pattern Matching",
+    "question": "Using KMP Algorithm",
+    "answerLink": "https://www.scaler.com/topics/data-structures/kmp-algorithm/"
+},
+
+
 
 
 	
@@ -1266,6 +1274,7 @@
     "question": "Binary Tree Pruning",
     "answerLink": "https://leetcode.com/submissions/detail/793029554/"
 }
+
 ]
 
 
