@@ -873,6 +873,15 @@
         "question": "Check if two BSTs contain same set of elements",
         "answerLink": "https://www.geeksforgeeks.org/check-two-bsts-contain-set-elements/"
 
+    },
+{
+        "id": "397",
+        "topic": "DSA_String",
+        "question": "Count and Say",
+        "answerLink": "https://leetcode.com/submissions/detail/824987631/"
+    }
+
+
 
     },
 
@@ -1005,7 +1014,7 @@
     "answer_link":"https://www.geeksforgeeks.org/static-data-structure-vs-dynamic-data-structure/?ref=lbp"
 
 },
-    
+
    {
     "id": "008",
       "topic": "BackTracking",
@@ -1013,6 +1022,24 @@
 
       "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"
    },
+   {
+    "id": "21451",
+      "topic": "Dynamic Programming",
+      "question": "Queens Attack II",
+      "answerLink": "https://takeuforward.org/data-structure/queens-attack-II/"
+},
+   
+
+{ "id":"29132",
+  
+    "topic":"DSA for Python",
+  
+    "question":"How to create dictionary in python?",
+  
+    "answer_link":"https://www.pythondatastructure.com/how-to-create-dictionary-in-python/"
+  
+  },
+
 
  
    {
@@ -1036,9 +1063,7 @@
     "topic": "DSA",
     "question": "Dijkstra Algorithm",
     "answerLink": "https://www.scaler.com/topics/data-structures/dijkstra-algorithm/"
-
-
-
+    
    }
  {
     "id": "123",
@@ -1057,7 +1082,6 @@
     
     "answer_link":"https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
 }
-
 
 {
     "id": "1020",
@@ -1079,13 +1103,150 @@
     "question": "Longest Duplicate substring",
     "answerLink": "https://leetcode.com/problems/longest-duplicate-substring/"
   },
+
   {
     "id": "1023",
     "topic": "DSA - Arrays",
     "question": "W. A. P. to Split the array and add the first part to the end",
     "answerlink":"https://www.geeksforgeeks.org/split-array-add-first-part-end/"
   },
+
+
+  {
+
+    "id": "1025",
+    "topic": "Algorithm",
+    "question": "Sieve of Eratosthenes",
+    "answerLink": "https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html"
+  },
+
+    "id": "1023",
+    "topic": "Data structures",
+    "question": "Median of Two Sorted Arrays",
+    "answerLink": "https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/813867929/"
+  },
+
+
+ {
+    "id": "29200",
+    "topic": "Data structures",
+    "question": "Count Zeroes",
+    "answerLink": "https://leetcode.com/problems/count-zeroes/"
+  },
+
+
+{
+    "id": "1023",
+    "topic": "DSA",
+    "question": "Hashing",
+    "answerLink": "https://www.geeksforgeeks.org/hashing-data-structure/"
+  },	
+
+
+{
+        "id": "1045",
+        "topic": "Data Structures",
+        "question": "What is shell sort?",
+        "answerLink": "https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
+    },
+
 	
+{
+    "id": "1008",
+    "topic": "Data structures",
+    "question": "Happy Number",
+    "answerLink": "https://leetcode.com/problems/happy-number/"
+},
+{
+    "id": "1024",
+    "topic": "Data structures",
+    "question": "What is Euclid's GCD Algorithm.",
+    "answerLink": "https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/"
+},
+{
+    "id": "1025",
+    "topic": "Data structures",
+    "question": "Greedy Algorithms.",
+    "answerLink": "https://www.geeksforgeeks.org/greedy-algorithms/"
+},
+
+
+
+
+    "id": "1012",
+    "topic": "Data structures",
+    "question": "Jump Game",
+    "answerLink": "https://leetcode.com/problems/jump-game/"
+},
+
+
+    "id": "144468",
+    "topic": "Data structures",
+    "question": "Implementing Dijkstra Algorithm",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+},
+
+
+    "id": "1009",
+    "topic": "Two Pointers",
+    "question": "Sort Colors",
+    "answerLink": "https://leetcode.com/submissions/detail/823737267/"
+}
+{
+
+     "id":"1009",
+     "topic": "DSA-Array",
+     "question": "Shuffle an array using Fisher–Yates shuffle algorithm",
+     "answerLink": "http://www.techiedelight.com/shuffle-given-array-elements-fisher-yates-shuffle/"
+},
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+{
+
+    "id": "10941",
+    "topic": "DSA",
+    "question": "Replace every element with the least greater element on its right",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1"
+},
+
+        "id": "10008",
+        "topic": "sorting in DSA",
+        "question": "Merge sort ",
+        "answerLink": "https://www.geeksforgeeks.org/merge-sort-for-linked-list/"
+    },
+
+
+ {
+        "id": "1009",
+        "topic": "DSA - Subarray",
+        "question": "Find maximum Product Subarray",
+        "answer_link": "https://www.techiedelight.com/?problem=MaximumProductSubarray"
+    },
+
+{
+    "id": "1024",
+    "topic": "DSA",
+    "question": "Zigzag Conversion",
+    "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
+  }
+
+
+
+
+
 ]
+
 
 
