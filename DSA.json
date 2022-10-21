@@ -1291,10 +1291,17 @@
 },
 
 {
+
+    "id": "3978",
+    "topic": "Backtracking",
+    "question": "Knight Tour Problem",
+    "answerLink": "https://www.techiedelight.com/?problem=KnightTourProblem"
+
     "id": "304",
     "topic": "sorting",
     "question": "Insertion Sort in Python",
     "answerLink": "https://www.javatpoint.com/insertion-sort-in-python"
+
 }
 
 {
