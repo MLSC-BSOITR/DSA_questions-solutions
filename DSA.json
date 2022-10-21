@@ -1297,7 +1297,21 @@
     "answerLink": "https://www.javatpoint.com/insertion-sort-in-python"
 }
 
+{
+    "id": "3009",
+    "topic": "LINKED LIST TRAVERSAL",
+    "question": "Linked List Traversal ",
+    "answerLink": "https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm"
+},
 
+
+
+{
+    "id": "1010",
+    "topic": "DSA-Tress",
+    "question": "Zig Zag traversal in a Binary Tree",
+    "answerLink": "https://youtu.be/3OXWEdlIGl4"
+}
 
 ]
 
