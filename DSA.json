@@ -1358,8 +1358,13 @@
     "topic": "DSA-Tress",
     "question": "Zig Zag traversal in a Binary Tree",
     "answerLink": "https://youtu.be/3OXWEdlIGl4"
-}
-
+},
+   {
+        "id": "2345",
+        "topic": "array",
+        "question": "Write a program to sort array",
+        "answerLink": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1"
+   },
 ]
 
 
