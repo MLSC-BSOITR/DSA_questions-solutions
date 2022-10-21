@@ -1,4 +1,4 @@
-//<-- DO NOT EDIT THIS SECTION -->"
+
 [
     {
         "id": "1",
@@ -6,7 +6,7 @@
         "question": "Find pair with given sum in the array",
         "answerLink": "https://www.techiedelight.com/find-pair-with-given-sum-array/"
     },
-     "You can contribute below as mentioned above"
+    
     {
         "id": "2",
         "topic": "Data Structures",
@@ -67,7 +67,6 @@
         "topic": "DSA_array",
         "question": "Maximum Product Subarray Problem",
         "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array",
-        "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     },
     {
         "id": "6",
@@ -80,7 +79,6 @@
         "topic": "DSA_Tree",
         "question": "Count the leaf node of a tree",
         "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
-        "answerLink": "https://www.programiz.com/java-programming/examples/count-leaf-nodes-of-tree"
     },
     {
         "id": "150",
@@ -252,6 +250,12 @@
         "topic": "DSA_array",
         "question": "Find pair with given sum in the array",
         "answerLink": "https://www.techiedelight.com/find-pair-with-given-sum-array/"
+    },
+    {
+        "id": "22667",
+        "topic": "DSA Binary Trees",
+        "question": "Level Order Binary Tree Traversal",
+        "answerLink": "https://www.geeksforgeeks.org/level-order-tree-traversal/"
     },
     {
         "id": "34",
@@ -879,7 +883,7 @@
         "topic": "DSA_String",
         "question": "Count and Say",
         "answerLink": "https://leetcode.com/submissions/detail/824987631/"
-    }
+    
 
 
 
@@ -1053,9 +1057,8 @@
       "topic": "Dynamic Programing",
       "question": "Matrix chain multiplication",
       "answerLink": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
-}
 
-      "answerLink": "https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/"<<<<<<< main
+      
    },
 
    {
@@ -1064,7 +1067,7 @@
     "question": "Dijkstra Algorithm",
     "answerLink": "https://www.scaler.com/topics/data-structures/dijkstra-algorithm/"
     
-   }
+   },
  {
     "id": "123",
       "topic": "Array",
@@ -1082,7 +1085,7 @@
     
     "answer_link":"https://www.simplilearn.com/data-structure-interview-questions-and-answers-article"
 }
-
+,
 {
     "id": "1020",
     "topic": "BackTracking",
@@ -1119,6 +1122,7 @@
     "question": "Sieve of Eratosthenes",
     "answerLink": "https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html"
   },
+  {
 
     "id": "1023",
     "topic": "Data structures",
@@ -1171,6 +1175,7 @@
     "question": "Cyclic Components",
     "answerLink": "https://codeforces.com/problemset/problem/977/E"
 },
+{
 
 
 
@@ -1179,6 +1184,7 @@
     "question": "Quickselect Algorithm",
     "answerLink": "https://www.techiedelight.com/quickselect-algorithm/"
 },
+{
 
     "id": "1024",
     "topic": "Data structures",
@@ -1191,6 +1197,7 @@
     "question": "Greedy Algorithms.",
     "answerLink": "https://www.geeksforgeeks.org/greedy-algorithms/"
 },
+{
 
 
 
@@ -1200,6 +1207,7 @@
     "question": "Jump Game",
     "answerLink": "https://leetcode.com/problems/jump-game/"
 },
+{
 
 
     "id": "144468",
@@ -1207,13 +1215,13 @@
     "question": "Implementing Dijkstra Algorithm",
     "answerLink": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
 },
-
+{
 
     "id": "1009",
     "topic": "Two Pointers",
     "question": "Sort Colors",
     "answerLink": "https://leetcode.com/submissions/detail/823737267/"
-}
+},
 {
 
      "id":"1009",
@@ -1250,6 +1258,7 @@
     "question": "Replace every element with the least greater element on its right",
     "answerLink": "https://practice.geeksforgeeks.org/problems/replace-every-element-with-the-least-greater-element-on-its-right/1"
 },
+{
 
         "id": "10008",
         "topic": "sorting in DSA",
@@ -1270,7 +1279,7 @@
     "topic": "DSA",
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
-  }
+  },
 
 
 
@@ -1288,9 +1297,43 @@
     "topic": "DSA - Trees",
     "question": "Binary Tree Pruning",
     "answerLink": "https://leetcode.com/submissions/detail/793029554/"
+},
+
+{
+      
+    "id":"305",
+    
+    "topic":"DSA - Tree",
+    
+    "question":"What is a minimum spanning tree (MST)?",
+    
+    "answer_link":"https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
+
+
+{
+
+    "id": "304",
+    "topic": "DSA",
+    "question": "Remove Nth Node From End of List",
+    "answerLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/"
+
+
+    "id": "3978",
+    "topic": "Backtracking",
+    "question": "Knight Tour Problem",
+    "answerLink": "https://www.techiedelight.com/?problem=KnightTourProblem"
+
+    "id": "304",
+    "topic": "sorting",
+    "question": "Insertion Sort in Python",
+    "answerLink": "https://www.javatpoint.com/insertion-sort-in-python"
+
+
+
 }
 
 {
+
       
     "id":"304",
     
@@ -1301,8 +1344,21 @@
     "answer_link":"https://www.javatpoint.com/rotate-matrix-by-90-degrees-in-java"
 }
 
+    "id": "3009",
+    "topic": "LINKED LIST TRAVERSAL",
+    "question": "Linked List Traversal ",
+    "answerLink": "https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm"
+},
 
 
+
+
+{
+    "id": "1010",
+    "topic": "DSA-Tress",
+    "question": "Zig Zag traversal in a Binary Tree",
+    "answerLink": "https://youtu.be/3OXWEdlIGl4"
+}
 
 ]
 
