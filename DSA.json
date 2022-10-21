@@ -1333,11 +1333,23 @@
 }
 
 {
+
+      
+    "id":"304",
+    
+    "topic":"DSA -Matrix Rotation",
+    
+    "question":"Given a matrix,rotate the matrix 90 degrees clockwise",
+    
+    "answer_link":"https://www.javatpoint.com/rotate-matrix-by-90-degrees-in-java"
+}
+
     "id": "3009",
     "topic": "LINKED LIST TRAVERSAL",
     "question": "Linked List Traversal ",
     "answerLink": "https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm"
 },
+
 
 
 
