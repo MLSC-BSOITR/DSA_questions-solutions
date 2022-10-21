@@ -1359,6 +1359,12 @@
     "question": "Zig Zag traversal in a Binary Tree",
     "answerLink": "https://youtu.be/3OXWEdlIGl4"
 }
+{
+    "id": "1011",
+    "topic": "DSA",
+    "question": "N-Queen Problem",
+    "answerLink": "https://www.sanfoundry.com/cpp-program-solve-n-queen-problem/"
+}
 
 ]
 
