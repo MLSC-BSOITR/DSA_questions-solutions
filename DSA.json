@@ -1298,6 +1298,12 @@
 
 {
 
+    "id": "304",
+    "topic": "DSA",
+    "question": "Remove Nth Node From End of List",
+    "answerLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/"
+
+
     "id": "3978",
     "topic": "Backtracking",
     "question": "Knight Tour Problem",
@@ -1307,6 +1313,7 @@
     "topic": "sorting",
     "question": "Insertion Sort in Python",
     "answerLink": "https://www.javatpoint.com/insertion-sort-in-python"
+
 
 }
 
