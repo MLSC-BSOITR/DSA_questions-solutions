@@ -1360,6 +1360,39 @@
     "answerLink": "https://youtu.be/3OXWEdlIGl4"
 
 }
+{
+    "id": "1011",
+    "topic": "DSA",
+    "question": "N-Queen Problem",
+    "answerLink": "https://www.sanfoundry.com/cpp-program-solve-n-queen-problem/"
+}
+{
+    "id": "1015",
+    "topic": "DSA",
+    "question": "What are tree traversals?",
+    "answerLink": "https://www.interviewbit.com/data-structure-interview-questions/"
+}
+
+{
+    "id": "1016",
+    "topic": "DSA",
+    "question": "Given a boolean 2D matrix, find the number of islands. A group of connected 1s forms an island. For example, the below matrix contains 5 islands",
+    "answerLink": "https://www.geeksforgeeks.org/find-number-of-islands/"
+}
+{
+    "id": "1017",
+    "topic": "DSA",
+    "question": "implementation of Knuth–Morris–Pratt Algorithm",
+    "answerLink": "https://www.sanfoundry.com/cpp-program-implement-knuth-morris-pratt-algorithm-kmp/"
+}
+
+
+{
+    "id": "1018",
+    "topic": "DSA",
+    "question": "Graham Scan Algorithm to Find the Convex Hull",
+    "answerLink": "https://www.tutorialspoint.com/cplusplus-program-to-implement-graham-scan-algorithm-to-find-the-convex-hull"
+}
 
 {
     "id": "1011",
