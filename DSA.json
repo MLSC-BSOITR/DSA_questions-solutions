@@ -80,6 +80,12 @@
         "question": "Count the leaf node of a tree",
         "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
     },
+	{
+		"id": "1250",
+		"topic": "Recursion",
+		"question": "Print all subsequences of a string",
+		"answerLink": "https://www.geeksforgeeks.org/print-subsequences-string/",
+	},
     {
         "id": "150",
         "topic": "DSA_Linkedlist",
