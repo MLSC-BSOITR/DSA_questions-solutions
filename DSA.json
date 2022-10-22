@@ -1358,6 +1358,17 @@
     "topic": "DSA-Tress",
     "question": "Zig Zag traversal in a Binary Tree",
     "answerLink": "https://youtu.be/3OXWEdlIGl4"
+
+}
+
+{
+    "id": "1011",
+    "topic": "DSA-Array",
+    "question": "Find Minimum in Rotated Sorted Array",
+    "answerLink": "https://www.youtube.com/watch?v=IzHR_U8Ly6c"
+}
+
+
 },
    {
         "id": "2345",
