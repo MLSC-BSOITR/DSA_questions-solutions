@@ -1433,6 +1433,14 @@
         "question": "Write a program to sort an array using bucket sort",
         "answerLink": "https://www.geeksforgeeks.org/bucket-sort-2/"
    },
+
+
+    {
+        "id": "2347",
+        "topic": "array",
+        "question": "Write a program for merge sort",
+        "answerLink": "https://stackabuse.com/merge-sort-in-python/"
+
    {
         "id": "2347",
         "topic": "array",
@@ -1445,6 +1453,7 @@
         "topic": "array",
         "question": "Write a program to swap a array",
         "answerLink": "https://www.adamsmith.haus/python/answers/how-to-swap-elements-in-a-list-in-python"
+
    },
 
 
