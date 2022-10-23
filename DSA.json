@@ -1415,6 +1415,12 @@
         "question": "Write a program to sort array",
         "answerLink": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1"
    },
+   {
+        "id": "2346",
+        "topic": "bucket sort",
+        "question": "Write a program to sort an array using bucket sort",
+        "answerLink": "https://www.geeksforgeeks.org/bucket-sort-2/"
+   },
 ]
 
 
