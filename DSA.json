@@ -1415,6 +1415,12 @@
         "question": "Write a program to sort array",
         "answerLink": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1"
    },
+   {
+        "id": "2347",
+        "topic": "array",
+        "question": "Write a program to program to merge K sorted arrays of size n each",
+        "answerLink": "https://www.geeksforgeeks.org/merge-k-sorted-arrays/"
+   },
 ]
 
 
