@@ -1286,7 +1286,15 @@
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
   },
+{
+    "id": "1025",
+    "topic": "DSA _ parameters",
+    "question": "GenerateParameters puts a random, valid set of DSA parameters into params",
+    "answerLink": "https://youtu.be/GS9TyovoU4c"
 
+
+
+},
 
 
 
