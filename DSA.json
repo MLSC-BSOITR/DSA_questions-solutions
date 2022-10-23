@@ -1415,6 +1415,16 @@
         "question": "Write a program to sort array",
         "answerLink": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1"
    },
+
+	{
+        "id": "2346",
+        "topic": "array",
+        "question": "Write a program to swap a array",
+        "answerLink": "https://www.adamsmith.haus/python/answers/how-to-swap-elements-in-a-list-in-python"
+   },
+
+
+
 ]
 
 
