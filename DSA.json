@@ -1287,7 +1287,12 @@
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
   },
 
-
+  {
+    "id": "308",
+    "topic": "Two Pointers",
+    "question": "Minimum Window Substring",
+    "answerLink": "https://leetcode.com/problems/minimum-window-substring/"
+},
 
 
 
@@ -1407,13 +1412,12 @@
     "answerLink": "https://www.youtube.com/watch?v=IzHR_U8Ly6c"
 }
 
-
-},
-   {
-        "id": "2345",
+{
+        "id": "1012",
         "topic": "array",
         "question": "Write a program to sort array",
         "answerLink": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1"
+
    },
    {
         "id": "2346",
@@ -1425,3 +1429,12 @@
 
 
 
+}
+{
+	"id": "1013",
+        "topic": "array",
+        "question": "Write a program for binary search",
+        "answerLink": "https://www.geeksforgeeks.org/binary-search/"
+
+
+}
