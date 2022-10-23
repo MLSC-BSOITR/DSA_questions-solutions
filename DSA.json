@@ -1287,7 +1287,12 @@
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
   },
 
-
+  {
+    "id": "308",
+    "topic": "Two Pointers",
+    "question": "Minimum Window Substring",
+    "answerLink": "https://leetcode.com/problems/minimum-window-substring/"
+},
 
 
 
