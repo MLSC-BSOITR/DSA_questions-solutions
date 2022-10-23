@@ -1415,6 +1415,16 @@
         "question": "Write a program to sort array",
         "answerLink": "https://practice.geeksforgeeks.org/problems/sort-the-array0055/1"
    },
+
+    {
+        "id": "2347",
+        "topic": "array",
+        "question": "Write a program for merge sort",
+        "answerLink": "https://stackabuse.com/merge-sort-in-python/"
+   },
+
+
+
 ]
 
 
