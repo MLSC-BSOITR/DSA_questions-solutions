@@ -66,7 +66,7 @@
         "id": "5",
         "topic": "DSA_array",
         "question": "Maximum Product Subarray Problem",
-        "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array",
+        "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     },
     {
         "id": "6",
@@ -78,13 +78,13 @@
         "id": "7611",
         "topic": "DSA_Tree",
         "question": "Count the leaf node of a tree",
-        "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
+        "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/"
     },
 	{
 		"id": "1250",
 		"topic": "Recursion",
 		"question": "Print all subsequences of a string",
-		"answerLink": "https://www.geeksforgeeks.org/print-subsequences-string/",
+		"answerLink": "https://www.geeksforgeeks.org/print-subsequences-string/"
 	},
     {
         "id": "150",
@@ -114,7 +114,7 @@
         "id": "11",
         "topic": "Data Structure",
         "question": "How are the elements of a 2D array stored in the memory?",
-        "answerLink": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article",
+        "answerLink1": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article",
         "answerLink": "https://eduladder.com/viewquestions/25264/How-are-the-elements-of-a-2D-array-are-stored-in-the-memory"
     },
     {
@@ -348,7 +348,6 @@
         "answer": "https://www.quora.com/Why-is-the-stack-data-structure-known-as-LIFO"
     },
     {
-        "id": "2001",
         "id": "2001",
         "topic": "DSA- Graph",
         "question": "What is Graph",
@@ -1002,11 +1001,7 @@
 },
 
 {
-
-        "id""id": "1011",
-
         "id": "1011",
-
         "topic": "DSA_Stack",
         "question": "Convert Infix to Postfix",
         "answerLink": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
@@ -1362,7 +1357,7 @@
     
     "answer_link":"https://www.javatpoint.com/rotate-matrix-by-90-degrees-in-java"
 },
-
+{
     "id": "3009",
     "topic": "LINKED LIST TRAVERSAL",
     "question": "Linked List Traversal ",
@@ -1478,10 +1473,10 @@
     "answerLink": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
 },
 {
-    "id":"112",
+    "id":"114",
     "topic": "array",
     "question": "Kadane's Algo",
     "answerLink": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
-},
+}
 
 ]
