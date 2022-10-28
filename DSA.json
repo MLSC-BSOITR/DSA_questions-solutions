@@ -1291,7 +1291,7 @@
     "topic": "DSA _ parameters",
     "question": "GenerateParameters puts a random, valid set of DSA parameters into params",
     "answerLink": "https://youtu.be/GS9TyovoU4c"
-
+},
   {
     "id": "308",
     "topic": "Two Pointers",
@@ -1299,7 +1299,6 @@
     "answerLink": "https://leetcode.com/problems/minimum-window-substring/"
 },
 
-},
 
 
 
@@ -1327,7 +1326,7 @@
     "question":"What is a minimum spanning tree (MST)?",
     
     "answer_link":"https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
-
+},
 
 {
 
@@ -1336,12 +1335,13 @@
     "question": "Remove Nth Node From End of List",
     "answerLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/"
 
-
+},
+{
     "id": "3978",
     "topic": "Backtracking",
     "question": "Knight Tour Problem",
     "answerLink": "https://www.techiedelight.com/?problem=KnightTourProblem"
-
+},{
     "id": "304",
     "topic": "sorting",
     "question": "Insertion Sort in Python",
@@ -1349,7 +1349,7 @@
 
 
 
-}
+},
 
 {
 
@@ -1361,7 +1361,7 @@
     "question":"Given a matrix,rotate the matrix 90 degrees clockwise",
     
     "answer_link":"https://www.javatpoint.com/rotate-matrix-by-90-degrees-in-java"
-}
+},
 
     "id": "3009",
     "topic": "LINKED LIST TRAVERSAL",
@@ -1378,32 +1378,32 @@
     "question": "Zig Zag traversal in a Binary Tree",
     "answerLink": "https://youtu.be/3OXWEdlIGl4"
 
-}
+},
 {
     "id": "1011",
     "topic": "DSA",
     "question": "N-Queen Problem",
     "answerLink": "https://www.sanfoundry.com/cpp-program-solve-n-queen-problem/"
-}
+},
 {
     "id": "1015",
     "topic": "DSA",
     "question": "What are tree traversals?",
     "answerLink": "https://www.interviewbit.com/data-structure-interview-questions/"
-}
+},
 
 {
     "id": "1016",
     "topic": "DSA",
     "question": "Given a boolean 2D matrix, find the number of islands. A group of connected 1s forms an island. For example, the below matrix contains 5 islands",
     "answerLink": "https://www.geeksforgeeks.org/find-number-of-islands/"
-}
+},
 {
     "id": "1017",
     "topic": "DSA",
     "question": "implementation of Knuth–Morris–Pratt Algorithm",
     "answerLink": "https://www.sanfoundry.com/cpp-program-implement-knuth-morris-pratt-algorithm-kmp/"
-}
+},
 
 
 {
@@ -1411,14 +1411,14 @@
     "topic": "DSA",
     "question": "Graham Scan Algorithm to Find the Convex Hull",
     "answerLink": "https://www.tutorialspoint.com/cplusplus-program-to-implement-graham-scan-algorithm-to-find-the-convex-hull"
-}
+},
 
 {
     "id": "1011",
     "topic": "DSA-Array",
     "question": "Find Minimum in Rotated Sorted Array",
     "answerLink": "https://www.youtube.com/watch?v=IzHR_U8Ly6c"
-}
+},
 
 {
         "id": "1012",
@@ -1440,6 +1440,7 @@
         "topic": "array",
         "question": "Write a program for merge sort",
         "answerLink": "https://stackabuse.com/merge-sort-in-python/"
+    },    
 
    {
         "id": "2347",
@@ -1456,18 +1457,31 @@
 
    },
 
-
-
-]
-
-
-
-}
-{
+   {
 	"id": "1013",
         "topic": "array",
         "question": "Write a program for binary search",
         "answerLink": "https://www.geeksforgeeks.org/binary-search/"
 
 
-}
+},
+{
+    "id":"112",
+    "topic": "array",
+    "question": "Write a program Reverse the array",
+    "answerLink": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+},
+{
+    "id":"113",
+    "topic": "array",
+    "question": "Find the maximum and minimum element in an array",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
+},
+{
+    "id":"112",
+    "topic": "array",
+    "question": "Kadane's Algo",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+},
+
+]
