@@ -1478,5 +1478,65 @@
     "question": "Kadane's Algo",
     "answerLink": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
 }
+{
+    "id":"115",
+    "topic": "array",
+    "question": "Trapping Rain water problem",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0"
+},
+{
+    "id":"116",
+    "topic": "array",
+    "question": "Smallest Subarray with sum greater than a given value",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0"
+},
+{
+    "id":"117",
+    "topic": "Matrix",
+    "question": "Search an element in a matriix",
+    "answerLink": "https://leetcode.com/problems/search-a-2d-matrix/"
+},
+{
+    "id":"118",
+    "topic": "Matrix",
+    "question": "Maximum size rectangle",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/max-rectangle/1"
+},
+{
+    "id":"119",
+    "topic": "array",
+    "question": "Median of 2 sorted arrays of different size",
+    "answerLink": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
+},
+{
+    "id":"120",
+    "topic": "array",
+    "question": "Minimum swaps required bring elements less equal K together",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0"
+},
+{
+    "id":"121",
+    "topic": "array",
+    "question": "Chocolate Distribution problem",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0"
+},
+{
+    "id":"122",
+    "topic": "array",
+    "question": "Find whether an array is a subset of another array",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0"
+},
+{
+    "id":"123",
+    "topic": "string",
+    "question": "Check whether a String is Palindrome or not",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1"
+},
+{
+    "id":"124",
+    "topic": "Linkedlist",
+    "question": "Reverse a Linked List in group of Given Size.",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
+}
 
 ]
