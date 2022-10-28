@@ -1407,6 +1407,12 @@
     "question": "Graham Scan Algorithm to Find the Convex Hull",
     "answerLink": "https://www.tutorialspoint.com/cplusplus-program-to-implement-graham-scan-algorithm-to-find-the-convex-hull"
 },
+{
+    "id":"120",
+    "topic": "array",
+    "question": "Minimum swaps required bring elements less equal K together",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0"
+},
 
 {
     "id": "1011",
@@ -1508,12 +1514,7 @@
     "question": "Median of 2 sorted arrays of different size",
     "answerLink": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
 },
-{
-    "id":"120",
-    "topic": "array",
-    "question": "Minimum swaps required bring elements less equal K together",
-    "answerLink": "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0"
-},
+
 {
     "id":"121",
     "topic": "array",
