@@ -66,7 +66,7 @@
         "id": "5",
         "topic": "DSA_array",
         "question": "Maximum Product Subarray Problem",
-        "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array",
+        "answerLink": "https://www.techiedelight.com/find-maximum-product-subarray-given-array"
     },
     {
         "id": "6",
@@ -78,13 +78,13 @@
         "id": "7611",
         "topic": "DSA_Tree",
         "question": "Count the leaf node of a tree",
-        "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
+        "answerLink": "https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/"
     },
 	{
 		"id": "1250",
 		"topic": "Recursion",
 		"question": "Print all subsequences of a string",
-		"answerLink": "https://www.geeksforgeeks.org/print-subsequences-string/",
+		"answerLink": "https://www.geeksforgeeks.org/print-subsequences-string/"
 	},
     {
         "id": "150",
@@ -114,7 +114,7 @@
         "id": "11",
         "topic": "Data Structure",
         "question": "How are the elements of a 2D array stored in the memory?",
-        "answerLink": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article",
+        "answerLink1": "https://www.simplilearn.com/data-structure-interview-questions-and-answers-article",
         "answerLink": "https://eduladder.com/viewquestions/25264/How-are-the-elements-of-a-2D-array-are-stored-in-the-memory"
     },
     {
@@ -348,7 +348,6 @@
         "answer": "https://www.quora.com/Why-is-the-stack-data-structure-known-as-LIFO"
     },
     {
-        "id": "2001",
         "id": "2001",
         "topic": "DSA- Graph",
         "question": "What is Graph",
@@ -1002,11 +1001,7 @@
 },
 
 {
-
-        "id""id": "1011",
-
         "id": "1011",
-
         "topic": "DSA_Stack",
         "question": "Convert Infix to Postfix",
         "answerLink": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/"
@@ -1291,7 +1286,7 @@
     "topic": "DSA _ parameters",
     "question": "GenerateParameters puts a random, valid set of DSA parameters into params",
     "answerLink": "https://youtu.be/GS9TyovoU4c"
-
+},
   {
     "id": "308",
     "topic": "Two Pointers",
@@ -1299,7 +1294,6 @@
     "answerLink": "https://leetcode.com/problems/minimum-window-substring/"
 },
 
-},
 
 
 
@@ -1327,7 +1321,7 @@
     "question":"What is a minimum spanning tree (MST)?",
     
     "answer_link":"https://www.tutorialspoint.com/data_structures_algorithms/data_structures_algorithms_interview_questions.htm"
-
+},
 
 {
 
@@ -1336,12 +1330,13 @@
     "question": "Remove Nth Node From End of List",
     "answerLink": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/"
 
-
+},
+{
     "id": "3978",
     "topic": "Backtracking",
     "question": "Knight Tour Problem",
     "answerLink": "https://www.techiedelight.com/?problem=KnightTourProblem"
-
+},{
     "id": "304",
     "topic": "sorting",
     "question": "Insertion Sort in Python",
@@ -1349,7 +1344,7 @@
 
 
 
-}
+},
 
 {
 
@@ -1361,8 +1356,8 @@
     "question":"Given a matrix,rotate the matrix 90 degrees clockwise",
     
     "answer_link":"https://www.javatpoint.com/rotate-matrix-by-90-degrees-in-java"
-}
-
+},
+{
     "id": "3009",
     "topic": "LINKED LIST TRAVERSAL",
     "question": "Linked List Traversal ",
@@ -1378,32 +1373,32 @@
     "question": "Zig Zag traversal in a Binary Tree",
     "answerLink": "https://youtu.be/3OXWEdlIGl4"
 
-}
+},
 {
     "id": "1011",
     "topic": "DSA",
     "question": "N-Queen Problem",
     "answerLink": "https://www.sanfoundry.com/cpp-program-solve-n-queen-problem/"
-}
+},
 {
     "id": "1015",
     "topic": "DSA",
     "question": "What are tree traversals?",
     "answerLink": "https://www.interviewbit.com/data-structure-interview-questions/"
-}
+},
 
 {
     "id": "1016",
     "topic": "DSA",
     "question": "Given a boolean 2D matrix, find the number of islands. A group of connected 1s forms an island. For example, the below matrix contains 5 islands",
     "answerLink": "https://www.geeksforgeeks.org/find-number-of-islands/"
-}
+},
 {
     "id": "1017",
     "topic": "DSA",
     "question": "implementation of Knuth–Morris–Pratt Algorithm",
     "answerLink": "https://www.sanfoundry.com/cpp-program-implement-knuth-morris-pratt-algorithm-kmp/"
-}
+},
 
 
 {
@@ -1411,14 +1406,20 @@
     "topic": "DSA",
     "question": "Graham Scan Algorithm to Find the Convex Hull",
     "answerLink": "https://www.tutorialspoint.com/cplusplus-program-to-implement-graham-scan-algorithm-to-find-the-convex-hull"
-}
+},
+{
+    "id":"120",
+    "topic": "array",
+    "question": "Minimum swaps required bring elements less equal K together",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0"
+},
 
 {
     "id": "1011",
     "topic": "DSA-Array",
     "question": "Find Minimum in Rotated Sorted Array",
     "answerLink": "https://www.youtube.com/watch?v=IzHR_U8Ly6c"
-}
+},
 
 {
         "id": "1012",
@@ -1440,6 +1441,7 @@
         "topic": "array",
         "question": "Write a program for merge sort",
         "answerLink": "https://stackabuse.com/merge-sort-in-python/"
+    },    
 
    {
         "id": "2347",
@@ -1456,18 +1458,86 @@
 
    },
 
-
-
-]
-
-
-
-}
-{
+   {
 	"id": "1013",
         "topic": "array",
         "question": "Write a program for binary search",
         "answerLink": "https://www.geeksforgeeks.org/binary-search/"
 
 
+},
+{
+    "id":"112",
+    "topic": "array",
+    "question": "Write a program Reverse the array",
+    "answerLink": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/"
+},
+{
+    "id":"113",
+    "topic": "array",
+    "question": "Find the maximum and minimum element in an array",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0"
+},
+{
+    "id":"114",
+    "topic": "array",
+    "question": "Kadane's Algo",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+},
+{
+    "id":"115",
+    "topic": "array",
+    "question": "Trapping Rain water problem",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/trapping-rain-water/0"
+},
+{
+    "id":"116",
+    "topic": "array",
+    "question": "Smallest Subarray with sum greater than a given value",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0"
+},
+{
+    "id":"117",
+    "topic": "Matrix",
+    "question": "Search an element in a matriix",
+    "answerLink": "https://leetcode.com/problems/search-a-2d-matrix/"
+},
+{
+    "id":"118",
+    "topic": "Matrix",
+    "question": "Maximum size rectangle",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/max-rectangle/1"
+},
+{
+    "id":"119",
+    "topic": "array",
+    "question": "Median of 2 sorted arrays of different size",
+    "answerLink": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
+},
+
+{
+    "id":"121",
+    "topic": "array",
+    "question": "Chocolate Distribution problem",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0"
+},
+{
+    "id":"122",
+    "topic": "array",
+    "question": "Find whether an array is a subset of another array",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0"
+},
+{
+    "id":"123",
+    "topic": "string",
+    "question": "Check whether a String is Palindrome or not",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1"
+},
+{
+    "id":"124",
+    "topic": "Linkedlist",
+    "question": "Reverse a Linked List in group of Given Size.",
+    "answerLink": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
 }
+
+]
