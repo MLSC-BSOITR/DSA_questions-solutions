@@ -1217,6 +1217,12 @@
     "topic": "DSA",
     "question": "Zigzag Conversion",
     "answerLink": "https://leetcode.com/problems/zigzag-conversion/submissions/783001996/"
+  },
+{
+    "id": "904",
+    "topic": "DSA",
+    "question": "Fruit Into Baskets",
+    "answerLink": "https://leetcode.com/problems/fruit-into-baskets/submissions/893353383/"
   }
 
 
