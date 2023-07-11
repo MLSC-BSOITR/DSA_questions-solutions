@@ -1539,5 +1539,10 @@
     "question": "Reverse a Linked List in group of Given Size.",
     "answerLink": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
 }
-
+{
+    "id":"125",
+    "topic": "Two Pointers Design Sorting",
+    "question": "Find Median from Data Stream.",
+    "answerLink": "https://leetcode.com/problems/find-median-from-data-stream/"
+}
 ]
