@@ -1538,6 +1538,11 @@
     "topic": "Linkedlist",
     "question": "Reverse a Linked List in group of Given Size.",
     "answerLink": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
-}
-
+},
+{
+    "id": "125",
+    "topic": "Heaps",
+    "question": "Given are N ropes of different lengths, the task is to connect these ropes into one rope with minimum cost, such that the cost to connect two ropes is equal to the sum of their lengths.",
+    "answerLink": "https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/"
+},
 ]
